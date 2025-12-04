@@ -4,42 +4,19 @@ import os
 from ingest import DataLoader
 from database import Database
 
-# --- Configuration ---
-# Set the page configuration for a better user experience
 st.set_page_config(layout="wide", page_title="SEC Data Importer")
-
-# --- Initialize Session State for Data ---
-# Use session state to store the DataFrame and metadata across reruns
 if 'filing_df' not in st.session_state:
     st.session_state.filing_df = pd.DataFrame()
 if 'filing_metadata' not in st.session_state:
     st.session_state.filing_metadata = {}
 
-# --- Utility Functions (with Caching) ---
-
-# Caching the DataLoader initialization to avoid creating it multiple times
-# Caching is also useful for the Database connection if it were slow, 
-# but for SQLite it's mostly for cleanup and ensuring a single instance.
-# @st.cache_resource
-# def get_data_loader():
-#     """Initializes and returns the DataLoader."""
-#     return DataLoader()
-
-# @st.cache_resource
-# def get_database_connection():
-#     """Initializes the Database connection."""
-#     return Database()
-
 st.title("Hedge Fund Data Ingestion Tool")
 
-# Initialize shared resources
 data_loader = DataLoader()
 db = Database()
 
-# Define the CIK to test with (e.g., Berkshire Hathaway)
 DEFAULT_CIK = "1000045"
 
-# --- Data Importer Tab Logic ---
 
 st.header("Import New Holdings Data")
 st.markdown("Use this tool to fetch the latest 13F-HR filing for a given CIK (Central Index Key), preview the holdings data, and import it into the local database.")
@@ -51,14 +28,13 @@ cik_input = st.text_input(
     max_chars=10
 ).strip()
 
-# Placeholder for messages
 message_placeholder = st.empty()
 
 
 col1, col2 = st.columns(2)
 
 with col1:
-    # 1. Fetch Filing Metadata
+    # Fetch filing Metadata
     if st.button("1. Fetch Latest 13F Filing Metadata", use_container_width=True):
         if cik_input:
             with st.spinner(f"Searching for latest 13F filing for CIK {cik_input}..."):
@@ -79,7 +55,7 @@ with col1:
             message_placeholder.warning("Please enter a CIK number.")
 
 with col2:
-    # 2. Fetch Infotable DataFrame
+    # fetch Infotable DataFrame
     # Check if metadata is available before allowing the next step
     if st.session_state.filing_metadata:
         metadata = st.session_state.filing_metadata
@@ -98,20 +74,17 @@ with col2:
         st.button("2. Fetch Infotable Holdings", disabled=True, use_container_width=True)
 
 
-# --- Data Preview and Insert ---
-
 if not st.session_state.filing_df.empty:
     st.subheader("Data Preview (Top 20 Holdings)")
     
-    # 3. Display Data Preview
+    # Display Data Preview
     df_preview = st.session_state.filing_df.head(20).copy()
-    # Format the 'value' column for better readability
     df_preview['value'] = df_preview['value'].apply(lambda x: f"${x:,}")
     st.dataframe(df_preview, use_container_width=True, height=500)
     
     st.markdown(f"**Total Records Fetched**: {len(st.session_state.filing_df):,} | **Report Date**: {st.session_state.filing_metadata.get('reportDate')}")
 
-    # 4. Insert into Database
+    # Insert into Database
     if st.button("3. Insert All Holdings into Database", type="primary", use_container_width=True):
         with st.spinner("Inserting data into SQLite database..."):
             try:

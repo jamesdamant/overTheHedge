@@ -1,3 +1,4 @@
+import re
 import requests
 import pandas as pd
 import xml.etree.ElementTree as ET
@@ -73,39 +74,32 @@ class DataLoader():
             "Content-Type": "application/json"
         }
         resp = requests.get(url, headers=headers)
-        print(resp.status_code)
 
         if resp.status_code == 404:
             url = self.fund_infotable_base_url + cik + "/" + acc_num.replace("-","") + "/informationtable.xml"
-            print(url)
             headers = {
                 "User-Agent": "james@damant.com",
                 "Accept": "application/json",
                 "Content-Type": "application/json"
             }
             resp = requests.get(url, headers=headers)
-            print(resp.status_code)
     
         if resp.status_code == 404:
             url = self.fund_infotable_base_url + cik + "/" + acc_num.replace("-","") + "/MLP_Filing_20250930.xml"
-            print(url)
             headers = {
                 "User-Agent": "james@damant.com",
                 "Accept": "application/json",
                 "Content-Type": "application/json"
             }
             resp = requests.get(url, headers=headers)
-            print(resp.status_code)
 
         infotable = self._escape_fn(resp.text)
         
         # Remove xmlns declarations
-        import re
         xml_data = re.sub(r'xmlns="[^"]+"', '', infotable)
-        # 2. Remove ALL namespace prefixes like <ns1:tag> → <tag>
+        # Remove ALL namespace prefixes like <ns1:tag> → <tag>
         xml_clean = re.sub(r'<(/?)(\w+):', r'<\1', xml_data)
-
-        # 3. Same for closing tags: </ns1:tag>
+        # Same for closing tags: </ns1:tag>
         xml_clean = re.sub(r'</\w+:', '</', xml_clean)
 
         with open("./data/out.xml","a+") as f:

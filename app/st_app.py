@@ -78,7 +78,7 @@ with col_importer:
     button_col1, button_col2 = st.columns(2)
 
     with button_col1:
-        # 1. Fetch Filing Metadata
+        #Fetch Filing Metadata
         if st.button("1. Fetch Latest 13F Metadata", use_container_width=True, key="btn_fetch_meta"):
             if cik_input:
                 with st.spinner(f"Searching for latest 13F filing for CIK {cik_input}..."):
@@ -98,7 +98,7 @@ with col_importer:
                 message_placeholder.warning("Please enter a CIK number.")
 
     with button_col2:
-        # 2. Fetch Infotable DataFrame
+        # Fetch Infotable DataFrame
         if st.session_state.filing_metadata:
             metadata = st.session_state.filing_metadata
             acc_num = metadata.get("accessionNumber")
@@ -120,21 +120,20 @@ with col_importer:
     if not st.session_state.filing_df.empty:
         st.subheader("Data Preview (Top 20 Holdings)")
         
-        # 3. Display Data Preview
+        # Display Data Preview
         df_preview = st.session_state.filing_df.head(20).copy()
         df_preview['value'] = df_preview['value'].apply(lambda x: f"${x:,}")
         st.dataframe(df_preview, use_container_width=True, height=250)
         
         st.markdown(f"**Total Records Fetched**: {len(st.session_state.filing_df):,} | **Report Date**: {st.session_state.filing_metadata.get('reportDate')}")
 
-        # 4. Insert into Database
+        # Insert into Database
         if st.button("3. Insert All Holdings into Database", type="primary", use_container_width=True, key="btn_insert_db"):
             with st.spinner("Inserting data into SQLite database..."):
                 try:
                     db.insert_dataframe(st.session_state.filing_df)
                     message_placeholder.success(f"Successfully inserted **{len(st.session_state.filing_df)}** records for **{st.session_state.filing_metadata.get('name')}** into `holdings` table.")
                     
-                    # Clear state to prepare for next import
                     st.session_state.filing_df = pd.DataFrame()
                     st.session_state.filing_metadata = {}
                 except Exception as e:

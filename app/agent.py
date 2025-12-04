@@ -56,8 +56,7 @@ def get_yfinance_data(ticker: str) -> str:
                 f" - 52-Week Range: ${week_52_low} to ${week_52_high}\n"
                 f" - Market Cap: {market_cap}\n"
             )
-            # print(news)
-            # Get recent news
+            
             if news:
                 summary += "\nRecent News Headlines (Top 3):\n"
                 for i, article in enumerate(news[:3]):
@@ -97,7 +96,7 @@ class OverTheHedgeAgent():
         Streams the response from the agent, yielding the content of assistant
         messages as they are generated.
         """
-        # 1. Prepare messages for the agent (convert Streamlit dicts to LangChain objects)
+        # Prepare messages for the agent
         lc_messages = []
         for msg in chat_history:
             if msg["role"] == "user":
@@ -105,17 +104,13 @@ class OverTheHedgeAgent():
             elif msg["role"] == "assistant":
                 lc_messages.append(AIMessage(content=msg["content"]))
         
-        # 2. Add the current user query
+        # Add the current user query
         lc_messages.append(HumanMessage(content=user_query))
         
-        # The agent stream function expects a dictionary of messages, and we pass the
-        # full list of LangChain message objects.
         for step in self.agent.stream(
             {"messages": lc_messages},
             stream_mode="values", 
         ):
-            # FIX: Check if the last message in the step is an AIMessage object
-            # and yield its content.
             last_message = step["messages"][-1]
             if isinstance(last_message, AIMessage):
                 yield last_message.content
