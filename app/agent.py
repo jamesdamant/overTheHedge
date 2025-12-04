@@ -8,7 +8,7 @@ from langchain.agents import create_agent
 from langchain_core.messages import HumanMessage, AIMessage
 from langchain.tools import tool
 
-os.environ["AZURE_OPENAI_API_KEY"] = "c3cd1443e26345dca5254896e070e727"
+os.environ["AZURE_OPENAI_API_KEY"] = ""
 os.environ["AZURE_OPENAI_ENDPOINT"] = "https://farmai.openai.azure.com/"
 os.environ["OPENAI_API_VERSION"] = "2024-12-01-preview"
 os.environ["AZURE_OPENAI_DEPLOYMENT_NAME"] = "gpt-4.1"
