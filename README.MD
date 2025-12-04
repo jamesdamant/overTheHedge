@@ -3,11 +3,11 @@ James Damant
 Hedge Fund Intelligence Tool
 
 ## Data Ingestion Demos 
-<video src="https://github.com/jamesdamant/overTheHedge/demo/DataIngest.mp4" controls="controls" style="max-width: 100%;"></video>
+![Live Demo of OverTheHedge](demo/DataIngest.gif)
 
 ## Agent Demos 
-<video src="https://github.com/jamesdamant/overTheHedge/demo/Agent.mp4" controls="controls" style="max-width: 100%;"></video>
-<video src="https://github.com/jamesdamant/overTheHedge/demo/AgentReport.mp4" controls="controls" style="max-width: 100%;"></video>
+![Live Demo of OverTheHedge](demo/Agent.gif)
+![Live Demo of OverTheHedge](demo/AgentReport.gif)
 
 
 ## Assumptions
