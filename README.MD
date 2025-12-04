@@ -24,10 +24,11 @@ Hedge Fund Intelligence Tool
 ```bash
 docker build -f Dockerfile -t overthehedge:1.0.0 .
 docker run --rm -p 8501:8501 overthehedge:1.0.0 
+
+http://localhost:8501
 ```
 
-Visit
-http://localhost:8501
+
 
 Sources:
 https://www.sec.gov/files/company_tickers.json
