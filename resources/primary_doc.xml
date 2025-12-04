@@ -1,0 +1,6169 @@
+<edgarSubmission xmlns="http://www.sec.gov/edgar/nport" xmlns:com="http://www.sec.gov/edgar/common" xmlns:ncom="http://www.sec.gov/edgar/nportcommon" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sec.gov/edgar/nport eis_NPORT_Filer.xsd">
+<headerData>
+<submissionType>NPORT-P</submissionType>
+<isConfidential>false</isConfidential>
+<filerInfo>
+<filer>
+<issuerCredentials>
+<cik>0001528988</cik>
+<ccc>XXXXXXXX</ccc>
+</issuerCredentials>
+</filer>
+</filerInfo>
+</headerData>
+<formData>
+<genInfo>
+<regName>BlackRock Utilities, Infrastructure  Power Opportunities Trust</regName>
+<regFileNumber>811-22606</regFileNumber>
+<regCik>0001528988</regCik>
+<regLei>XL2HP568CJRFGPERYJ89</regLei>
+<regStreet1>100 BELLEVUE PARKWAY</regStreet1>
+<regCity>WILMINGTON</regCity>
+<regStateConditional regCountry="US" regState="US-DE"/>
+<regZipOrPostalCode>19809</regZipOrPostalCode>
+<regPhone>800-441-7762</regPhone>
+<seriesName>BlackRock Utilities, Infrastructure  Power Opportunities Trust</seriesName>
+<seriesLei>XL2HP568CJRFGPERYJ89</seriesLei>
+<repPdEnd>2025-12-31</repPdEnd>
+<repPdDate>2025-09-30</repPdDate>
+<isFinalFiling>N</isFinalFiling>
+</genInfo>
+<fundInfo>
+<totAssets>603752862.96</totAssets>
+<totLiabs>12142331.78</totLiabs>
+<netAssets>591610531.18</netAssets>
+<assetsAttrMiscSec>0.00000000</assetsAttrMiscSec>
+<assetsInvested>0.00000000</assetsInvested>
+<amtPayOneYrBanksBorr>0.00000000</amtPayOneYrBanksBorr>
+<amtPayOneYrCtrldComp>0.00000000</amtPayOneYrCtrldComp>
+<amtPayOneYrOthAffil>0.00000000</amtPayOneYrOthAffil>
+<amtPayOneYrOther>0.00000000</amtPayOneYrOther>
+<amtPayAftOneYrBanksBorr>0.00000000</amtPayAftOneYrBanksBorr>
+<amtPayAftOneYrCtrldComp>0.00000000</amtPayAftOneYrCtrldComp>
+<amtPayAftOneYrOthAffil>0.00000000</amtPayAftOneYrOthAffil>
+<amtPayAftOneYrOther>0.00000000</amtPayAftOneYrOther>
+<delayDeliv>0.00000000</delayDeliv>
+<standByCommit>0.00000000</standByCommit>
+<liquidPref>0.00000000</liquidPref>
+<cshNotRptdInCorD>78681.49000000</cshNotRptdInCorD>
+<borrowers>
+<borrower aggrVal="294795.57860000" lei="FOR8UP27PHTHYVLBNG30" name="GOLDMAN SACHS  CO."/>
+</borrowers>
+<isNonCashCollateral>N</isNonCashCollateral>
+<returnInfo>
+<monthlyTotReturns>
+<monthlyTotReturn rtn1="2.11000000" rtn2="-0.11000000" rtn3="2.88000000"/>
+</monthlyTotReturns>
+<monthlyReturnCats>
+<equityContracts>
+<mon1 netRealizedGain="107722.30000000" netUnrealizedAppr="-2419610.22000000"/>
+<mon2 netRealizedGain="-1513064.88000000" netUnrealizedAppr="5239081.66000000"/>
+<mon3 netRealizedGain="1797945.59000000" netUnrealizedAppr="-2710232.39000000"/>
+<optionCategory>
+<instrMon1 netRealizedGain="107722.30000000" netUnrealizedAppr="-2419610.22000000"/>
+<instrMon2 netRealizedGain="-1513064.88000000" netUnrealizedAppr="5239081.66000000"/>
+<instrMon3 netRealizedGain="1797945.59000000" netUnrealizedAppr="-2710232.39000000"/>
+</optionCategory>
+</equityContracts>
+</monthlyReturnCats>
+<othMon1 netRealizedGain="5762240.55000000" netUnrealizedAppr="7811256.21000000"/>
+<othMon2 netRealizedGain="467893.78000000" netUnrealizedAppr="-5276015.06000000"/>
+<othMon3 netRealizedGain="15053450.80000000" netUnrealizedAppr="2399712.19000000"/>
+</returnInfo>
+<mon1Flow redemption="0.00000000" reinvestment="192734.81000000" sales="0.00000000"/>
+<mon2Flow redemption="0.00000000" reinvestment="195349.97000000" sales="0.00000000"/>
+<mon3Flow redemption="0.00000000" reinvestment="194163.37000000" sales="5891020.80000000"/>
+<varInfo>
+<fundsDesignatedInfo>
+<nameDesignatedIndex>MSCI World Select Energy Utilities and Industrials Call Overwrite Index</nameDesignatedIndex>
+<indexIdentifier>N/A</indexIdentifier>
+</fundsDesignatedInfo>
+</varInfo>
+</fundInfo>
+<invstOrSecs>
+<invstOrSec>
+<name>The Montreal Exchange / Bourse De Montreal</name>
+<lei>N/A</lei>
+<title>CANADIAN PACIFIC KANSAS CITY L</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="Z977GRMA9"/>
+</identifiers>
+<balance>-192.00000000</balance>
+<units>NC</units>
+<currencyConditional curCd="CAD" exchangeRt="1.39170000"/>
+<valUSD>-5449.45000000</valUSD>
+<pctVal>-0.00092112119</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>CA</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>The Montreal Exchange / Bourse De Montreal</counterpartyName>
+<counterpartyLei>N/A</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Canadian Pacific Kansas City Ltd.</issuerName>
+<issueTitle>Canadian Pacific Kansas City Ltd.</issueTitle>
+<identifiers>
+<isin value="CA13646K1084"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>100.00000000</shareNo>
+<exercisePrice>107.00000000</exercisePrice>
+<exercisePriceCurCd>CAD</exercisePriceCurCd>
+<expDt>2025-10-17</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>9322.57000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>GOLDMAN SACHS INTERNATIONAL</name>
+<lei>W22LROWP2IHZNBB6K528</lei>
+<title>OCT25 SU FP C @ 238.838</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDRLNG92"/>
+</identifiers>
+<balance>-6000.00000000</balance>
+<units>NC</units>
+<currencyConditional curCd="EUR" exchangeRt="0.85175200"/>
+<valUSD>-48776.66000000</valUSD>
+<pctVal>-0.00824472476</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>GOLDMAN SACHS INTERNATIONAL</counterpartyName>
+<counterpartyLei>W22LROWP2IHZNBB6K528</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Schneider Electric SE</issuerName>
+<issueTitle>Schneider Electric SE</issueTitle>
+<identifiers>
+<isin value="FR0000121972"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>238.83800000</exercisePrice>
+<exercisePriceCurCd>EUR</exercisePriceCurCd>
+<expDt>2025-10-28</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-683.71000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>MORGAN STANLEY  CO LLC</name>
+<lei>9R7GPTSO7KV3UQJZQ078</lei>
+<title>LIN US FLEX</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDRX2C16"/>
+</identifiers>
+<balance>-44.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-38078.44000000</valUSD>
+<pctVal>-0.00643640334</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>MORGAN STANLEY  CO LLC</counterpartyName>
+<counterpartyLei>9R7GPTSO7KV3UQJZQ078</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Linde PLC</issuerName>
+<issueTitle>Linde PLC</issueTitle>
+<identifiers>
+<isin value="IE000S9YS762"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>100.00000000</shareNo>
+<exercisePrice>485.00000000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-11-07</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>17483.73000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>American Electric Power Co Inc</name>
+<lei>1B4S6S7G0TW5EE83BO58</lei>
+<title>American Electric Power Co Inc</title>
+<cusip>025537101</cusip>
+<identifiers>
+<isin value="US0255371017"/>
+</identifiers>
+<balance>134438.00000000</balance>
+<units>NS</units>
+<curCd>USD</curCd>
+<valUSD>15124275.00000000</valUSD>
+<pctVal>2.556458041717</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>BANK OF AMERICA NA</name>
+<lei>B4TYDEB6GKMZO031MB27</lei>
+<title>NOV25 HEI GY C @ 192.6609</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDS5BDH9"/>
+</identifiers>
+<balance>-6500.00000000</balance>
+<units>NC</units>
+<currencyConditional curCd="EUR" exchangeRt="0.85175200"/>
+<valUSD>-60418.30000000</valUSD>
+<pctVal>-0.01021251259</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>BANK OF AMERICA NA</counterpartyName>
+<counterpartyLei>B4TYDEB6GKMZO031MB27</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Heidelberg Materials AG</issuerName>
+<issueTitle>Heidelberg Materials AG</issueTitle>
+<identifiers>
+<isin value="DE0006047004"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>192.66090000</exercisePrice>
+<exercisePriceCurCd>EUR</exercisePriceCurCd>
+<expDt>2025-11-05</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-12314.03000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Options Clearing Corp.</name>
+<lei>549300CII6SLYGKNHA04</lei>
+<title>OWENS CORNING</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="Z96ZDGSS0"/>
+</identifiers>
+<balance>-105.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-25462.50000000</valUSD>
+<pctVal>-0.00430392947</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>Options Clearing Corp.</counterpartyName>
+<counterpartyLei>549300CII6SLYGKNHA04</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Owens Corning</issuerName>
+<issueTitle>Owens Corning</issueTitle>
+<identifiers>
+<cusip value="690742101"/>
+<isin value="US6907421019"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>100.00000000</shareNo>
+<exercisePrice>160.00000000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-11-21</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>66299.95000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Options Clearing Corp.</name>
+<lei>549300CII6SLYGKNHA04</lei>
+<title>SEMPRA</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="Z96Y810G8"/>
+</identifiers>
+<balance>-133.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-67165.00000000</valUSD>
+<pctVal>-0.01135290811</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>Options Clearing Corp.</counterpartyName>
+<counterpartyLei>549300CII6SLYGKNHA04</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Sempra</issuerName>
+<issueTitle>Sempra</issueTitle>
+<identifiers>
+<cusip value="816851109"/>
+<isin value="US8168511090"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>100.00000000</shareNo>
+<exercisePrice>85.00000000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-10-17</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-48665.16000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Options Clearing Corp.</name>
+<lei>549300CII6SLYGKNHA04</lei>
+<title>REPUBLIC SERVICES INC</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="Z96Y80AZ7"/>
+</identifiers>
+<balance>-96.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-4560.00000000</valUSD>
+<pctVal>-0.00077077735</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>Options Clearing Corp.</counterpartyName>
+<counterpartyLei>549300CII6SLYGKNHA04</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Republic Services, Inc.</issuerName>
+<issueTitle>Republic Services, Inc.</issueTitle>
+<identifiers>
+<cusip value="760759100"/>
+<isin value="US7607591002"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>100.00000000</shareNo>
+<exercisePrice>240.00000000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-10-17</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>28634.47000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Vistra Corp</name>
+<lei>549300KP43CPCUJOOG15</lei>
+<title>Vistra Corp</title>
+<cusip>92840M102</cusip>
+<identifiers>
+<isin value="US92840M1027"/>
+</identifiers>
+<balance>64713.00000000</balance>
+<units>NS</units>
+<curCd>USD</curCd>
+<valUSD>12678570.96000000</valUSD>
+<pctVal>2.143060390543</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>BARCLAYS BANK PLC</name>
+<lei>G5GSEF7VJP5I7OUK5573</lei>
+<title>NOV25 NI US C @ 41.045</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDRXA3G5"/>
+</identifiers>
+<balance>-25600.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-70240.00000000</valUSD>
+<pctVal>-0.01187267573</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>BARCLAYS BANK PLC</counterpartyName>
+<counterpartyLei>G5GSEF7VJP5I7OUK5573</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>NiSource, Inc.</issuerName>
+<issueTitle>NiSource, Inc.</issueTitle>
+<identifiers>
+<cusip value="65473P105"/>
+<isin value="US65473P1057"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>41.04500000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-11-07</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-46339.84000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>BANK OF AMERICA NA</name>
+<lei>B4TYDEB6GKMZO031MB27</lei>
+<title>NOV25 VWS DC C @ 126.882</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDS3AEK5"/>
+</identifiers>
+<balance>-82100.00000000</balance>
+<units>NC</units>
+<currencyConditional curCd="DKK" exchangeRt="6.35805000"/>
+<valUSD>-56460.42000000</valUSD>
+<pctVal>-0.00954351165</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>BANK OF AMERICA NA</counterpartyName>
+<counterpartyLei>B4TYDEB6GKMZO031MB27</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Vestas Wind Systems AS</issuerName>
+<issueTitle>Vestas Wind Systems AS</issueTitle>
+<identifiers>
+<isin value="DK0061539921"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>126.88200000</exercisePrice>
+<exercisePriceCurCd>DKK</exercisePriceCurCd>
+<expDt>2025-11-07</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>11547.46000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Options Clearing Corp.</name>
+<lei>549300CII6SLYGKNHA04</lei>
+<title>VISTRA CORP</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="Z978DF0X0"/>
+</identifiers>
+<balance>-86.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-45580.00000000</valUSD>
+<pctVal>-0.00770439294</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>Options Clearing Corp.</counterpartyName>
+<counterpartyLei>549300CII6SLYGKNHA04</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Vistra Corp.</issuerName>
+<issueTitle>Vistra Corp.</issueTitle>
+<identifiers>
+<cusip value="92840M102"/>
+<isin value="US92840M1027"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>100.00000000</shareNo>
+<exercisePrice>215.00000000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-10-31</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>34024.78000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Dominion Energy Inc</name>
+<lei>ILUL7B6Z54MRYCF6H308</lei>
+<title>Dominion Energy Inc</title>
+<cusip>25746U109</cusip>
+<identifiers>
+<isin value="US25746U1097"/>
+</identifiers>
+<balance>178918.00000000</balance>
+<units>NS</units>
+<curCd>USD</curCd>
+<valUSD>10944414.06000000</valUSD>
+<pctVal>1.849935638936</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>BNP PARIBAS SA</name>
+<lei>QHSFEYI7HUOXXZ413E03</lei>
+<title>OCT25 EDPR PL C @ 9.9137</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDPUHBL7"/>
+</identifiers>
+<balance>-136400.00000000</balance>
+<units>NC</units>
+<currencyConditional curCd="EUR" exchangeRt="0.85175200"/>
+<valUSD>-206246.56000000</valUSD>
+<pctVal>-0.03486188110</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>BNP PARIBAS SA</counterpartyName>
+<counterpartyLei>QHSFEYI7HUOXXZ413E03</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>EDP Renovaveis SA</issuerName>
+<issueTitle>EDP Renovaveis SA</issueTitle>
+<identifiers>
+<isin value="ES0127797019"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>9.91370000</exercisePrice>
+<exercisePriceCurCd>EUR</exercisePriceCurCd>
+<expDt>2025-10-03</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-147165.92000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>BARCLAYS BANK PLC</name>
+<lei>G5GSEF7VJP5I7OUK5573</lei>
+<title>NOV25 ELI BB C @ 99.747</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDS144U0"/>
+</identifiers>
+<balance>-12500.00000000</balance>
+<units>NC</units>
+<currencyConditional curCd="EUR" exchangeRt="0.85175200"/>
+<valUSD>-35442.69000000</valUSD>
+<pctVal>-0.00599088219</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>BARCLAYS BANK PLC</counterpartyName>
+<counterpartyLei>G5GSEF7VJP5I7OUK5573</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Elia Group SA</issuerName>
+<issueTitle>Elia Group SA</issueTitle>
+<identifiers>
+<isin value="BE0003822393"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>99.74700000</exercisePrice>
+<exercisePriceCurCd>EUR</exercisePriceCurCd>
+<expDt>2025-11-04</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-628.35000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>BANK OF AMERICA NA</name>
+<lei>B4TYDEB6GKMZO031MB27</lei>
+<title>OCT25 EDPR PL C @ 10.1703</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDRE2NS6"/>
+</identifiers>
+<balance>-160000.00000000</balance>
+<units>NC</units>
+<currencyConditional curCd="EUR" exchangeRt="0.85175200"/>
+<valUSD>-203787.02000000</valUSD>
+<pctVal>-0.03444614476</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>BANK OF AMERICA NA</counterpartyName>
+<counterpartyLei>B4TYDEB6GKMZO031MB27</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>EDP Renovaveis SA</issuerName>
+<issueTitle>EDP Renovaveis SA</issueTitle>
+<identifiers>
+<isin value="ES0127797019"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>10.17030000</exercisePrice>
+<exercisePriceCurCd>EUR</exercisePriceCurCd>
+<expDt>2025-10-22</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-132685.39000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>GOLDMAN SACHS INTERNATIONAL</name>
+<lei>W22LROWP2IHZNBB6K528</lei>
+<title>OCT25 PRY IM C @ 76.1376</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDPWC4T7"/>
+</identifiers>
+<balance>-5100.00000000</balance>
+<units>NC</units>
+<currencyConditional curCd="EUR" exchangeRt="0.85175200"/>
+<valUSD>-48774.21000000</valUSD>
+<pctVal>-0.00824431064</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>GOLDMAN SACHS INTERNATIONAL</counterpartyName>
+<counterpartyLei>W22LROWP2IHZNBB6K528</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Prysmian SpA</issuerName>
+<issueTitle>Prysmian SpA</issueTitle>
+<identifiers>
+<isin value="IT0004176001"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>76.13760000</exercisePrice>
+<exercisePriceCurCd>EUR</exercisePriceCurCd>
+<expDt>2025-10-09</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-32847.69000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>CITIBANK NA</name>
+<lei>E57ODZWZ7FF32TWEFA76</lei>
+<title>NOV25 ELI BB C @ 97.9212</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDRUNMK0"/>
+</identifiers>
+<balance>-4100.00000000</balance>
+<units>NC</units>
+<currencyConditional curCd="EUR" exchangeRt="0.85175200"/>
+<valUSD>-15598.98000000</valUSD>
+<pctVal>-0.00263669748</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>CITIBANK NA</counterpartyName>
+<counterpartyLei>E57ODZWZ7FF32TWEFA76</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Elia Group SA</issuerName>
+<issueTitle>Elia Group SA</issueTitle>
+<identifiers>
+<isin value="BE0003822393"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>97.92120000</exercisePrice>
+<exercisePriceCurCd>EUR</exercisePriceCurCd>
+<expDt>2025-11-04</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-60.40000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>GOLDMAN SACHS INTERNATIONAL</name>
+<lei>W22LROWP2IHZNBB6K528</lei>
+<title>OCT25 PPL CN C @ 52.25</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDR2YJK1"/>
+</identifiers>
+<balance>-31900.00000000</balance>
+<units>NC</units>
+<currencyConditional curCd="CAD" exchangeRt="1.39170000"/>
+<valUSD>-103241.67000000</valUSD>
+<pctVal>-0.01745095202</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>GOLDMAN SACHS INTERNATIONAL</counterpartyName>
+<counterpartyLei>W22LROWP2IHZNBB6K528</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Pembina Pipeline Corp.</issuerName>
+<issueTitle>Pembina Pipeline Corp.</issueTitle>
+<identifiers>
+<isin value="CA7063271034"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>52.25000000</exercisePrice>
+<exercisePriceCurCd>CAD</exercisePriceCurCd>
+<expDt>2025-10-22</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-86308.17000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>BNP PARIBAS SA</name>
+<lei>QHSFEYI7HUOXXZ413E03</lei>
+<title>OCT25 SSE LN C @ 16.9438</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDRLNGS0"/>
+</identifiers>
+<balance>-24400.00000000</balance>
+<units>NC</units>
+<currencyConditional curCd="GBP" exchangeRt="0.74355000"/>
+<valUSD>-24572.94000000</valUSD>
+<pctVal>-0.00415356703</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>BNP PARIBAS SA</counterpartyName>
+<counterpartyLei>QHSFEYI7HUOXXZ413E03</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>SSE PLC</issuerName>
+<issueTitle>SSE PLC</issueTitle>
+<identifiers>
+<isin value="GB0007908733"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>16.94380000</exercisePrice>
+<exercisePriceCurCd>GBP</exercisePriceCurCd>
+<expDt>2025-10-28</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-7348.38000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>BANK OF AMERICA NA</name>
+<lei>B4TYDEB6GKMZO031MB27</lei>
+<title>NOV25 KRX ID C @ 68.7297</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDRUNM95"/>
+</identifiers>
+<balance>-27300.00000000</balance>
+<units>NC</units>
+<currencyConditional curCd="EUR" exchangeRt="0.85175200"/>
+<valUSD>-120377.41000000</valUSD>
+<pctVal>-0.02034740824</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>BANK OF AMERICA NA</counterpartyName>
+<counterpartyLei>B4TYDEB6GKMZO031MB27</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Kingspan Group PLC</issuerName>
+<issueTitle>Kingspan Group PLC</issueTitle>
+<identifiers>
+<isin value="IE0004927939"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>68.72970000</exercisePrice>
+<exercisePriceCurCd>EUR</exercisePriceCurCd>
+<expDt>2025-11-04</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-63272.65000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Options Clearing Corp.</name>
+<lei>549300CII6SLYGKNHA04</lei>
+<title>AMERICAN ELECTRIC POWER CO INC</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="Z97717DH4"/>
+</identifiers>
+<balance>-267.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-18022.50000000</valUSD>
+<pctVal>-0.00304634536</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>Options Clearing Corp.</counterpartyName>
+<counterpartyLei>549300CII6SLYGKNHA04</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>American Electric Power Co., Inc.</issuerName>
+<issueTitle>American Electric Power Co., Inc.</issueTitle>
+<identifiers>
+<cusip value="025537101"/>
+<isin value="US0255371017"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>100.00000000</shareNo>
+<exercisePrice>115.00000000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-10-17</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>40924.63000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>NextEra Energy Inc</name>
+<lei>254900RHL9MEUS5NKX63</lei>
+<title>NextEra Energy Inc</title>
+<cusip>65339F101</cusip>
+<identifiers>
+<isin value="US65339F1012"/>
+</identifiers>
+<balance>396738.00000000</balance>
+<units>NS</units>
+<curCd>USD</curCd>
+<valUSD>29949751.62000000</valUSD>
+<pctVal>5.062410156942</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>BARCLAYS BANK PLC</name>
+<lei>G5GSEF7VJP5I7OUK5573</lei>
+<title>NOV25 TT US C @ 428.358</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDRXFTZ4"/>
+</identifiers>
+<balance>-12800.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-166304.90000000</valUSD>
+<pctVal>-0.02811053746</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>BARCLAYS BANK PLC</counterpartyName>
+<counterpartyLei>G5GSEF7VJP5I7OUK5573</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Trane Technologies PLC</issuerName>
+<issueTitle>Trane Technologies PLC</issueTitle>
+<identifiers>
+<isin value="IE00BK9ZQ967"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>428.35800000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-11-07</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-50379.14000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Options Clearing Corp.</name>
+<lei>549300CII6SLYGKNHA04</lei>
+<title>VERTIV HOLDINGS CO</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="Z978DEYR9"/>
+</identifiers>
+<balance>-111.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-137085.00000000</valUSD>
+<pctVal>-0.02317149421</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>Options Clearing Corp.</counterpartyName>
+<counterpartyLei>549300CII6SLYGKNHA04</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Vertiv Holdings Co.</issuerName>
+<issueTitle>Vertiv Holdings Co.</issueTitle>
+<identifiers>
+<cusip value="92537N108"/>
+<isin value="US92537N1081"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>100.00000000</shareNo>
+<exercisePrice>146.00000000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-10-24</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-52673.05000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Options Clearing Corp.</name>
+<lei>549300CII6SLYGKNHA04</lei>
+<title>GE VERNOVA INC</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="Z978DHD12"/>
+</identifiers>
+<balance>-120.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-205800.00000000</valUSD>
+<pctVal>-0.03478639901</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>Options Clearing Corp.</counterpartyName>
+<counterpartyLei>549300CII6SLYGKNHA04</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>GE Vernova, Inc.</issuerName>
+<issueTitle>GE Vernova, Inc.</issueTitle>
+<identifiers>
+<cusip value="36828A101"/>
+<isin value="US36828A1016"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>100.00000000</shareNo>
+<exercisePrice>670.00000000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-10-31</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>48553.19000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Options Clearing Corp.</name>
+<lei>549300CII6SLYGKNHA04</lei>
+<title>HUBBELL INC</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="Z9772G1C7"/>
+</identifiers>
+<balance>-19.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-7030.00000000</valUSD>
+<pctVal>-0.00118828175</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>Options Clearing Corp.</counterpartyName>
+<counterpartyLei>549300CII6SLYGKNHA04</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Hubbell, Inc.</issuerName>
+<issueTitle>Hubbell, Inc.</issueTitle>
+<identifiers>
+<cusip value="443510607"/>
+<isin value="US4435106079"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>100.00000000</shareNo>
+<exercisePrice>450.00000000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-10-17</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>13181.74000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Options Clearing Corp.</name>
+<lei>549300CII6SLYGKNHA04</lei>
+<title>DOMINION ENERGY INC</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="Z96Y6FP15"/>
+</identifiers>
+<balance>-626.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-25040.00000000</valUSD>
+<pctVal>-0.00423251424</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>Options Clearing Corp.</counterpartyName>
+<counterpartyLei>549300CII6SLYGKNHA04</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Dominion Energy, Inc.</issuerName>
+<issueTitle>Dominion Energy, Inc.</issueTitle>
+<identifiers>
+<cusip value="25746U109"/>
+<isin value="US25746U1097"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>100.00000000</shareNo>
+<exercisePrice>62.50000000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-10-17</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>24069.16000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>CITIBANK NA</name>
+<lei>E57ODZWZ7FF32TWEFA76</lei>
+<title>OCT25 ETR US C @ 90.193</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDPUC717"/>
+</identifiers>
+<balance>-20400.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-67560.92000000</valUSD>
+<pctVal>-0.01141983052</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>CITIBANK NA</counterpartyName>
+<counterpartyLei>E57ODZWZ7FF32TWEFA76</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Entergy Corp.</issuerName>
+<issueTitle>Entergy Corp.</issueTitle>
+<identifiers>
+<cusip value="29364G103"/>
+<isin value="US29364G1031"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>90.19300000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-10-07</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-20698.04000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Options Clearing Corp.</name>
+<lei>549300CII6SLYGKNHA04</lei>
+<title>WILLIAMS COS INC/THE</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="Z977PXK34"/>
+</identifiers>
+<balance>-216.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-90720.00000000</valUSD>
+<pctVal>-0.01533441262</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>Options Clearing Corp.</counterpartyName>
+<counterpartyLei>549300CII6SLYGKNHA04</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Williams Cos., Inc.</issuerName>
+<issueTitle>Williams Cos., Inc.</issueTitle>
+<identifiers>
+<cusip value="969457100"/>
+<isin value="US9694571004"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>100.00000000</shareNo>
+<exercisePrice>59.00000000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-10-10</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-78596.38000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Owens Corning</name>
+<lei>JO5M6676RDJIZ2U8X907</lei>
+<title>Owens Corning</title>
+<cusip>690742101</cusip>
+<identifiers>
+<isin value="US6907421019"/>
+</identifiers>
+<balance>65876.00000000</balance>
+<units>NS</units>
+<curCd>USD</curCd>
+<valUSD>9318818.96000000</valUSD>
+<pctVal>1.575161101580</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Williams Cos Inc/The</name>
+<lei>D71FAKCBLFS2O0RBPG08</lei>
+<title>Williams Cos Inc/The</title>
+<cusip>969457100</cusip>
+<identifiers>
+<isin value="US9694571004"/>
+</identifiers>
+<balance>320535.00000000</balance>
+<units>NS</units>
+<curCd>USD</curCd>
+<valUSD>20305892.25000000</valUSD>
+<pctVal>3.432307435349</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>BARCLAYS BANK PLC</name>
+<lei>G5GSEF7VJP5I7OUK5573</lei>
+<title>OCT25 SSE LN C @ 18.0138</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDQ60B96"/>
+</identifiers>
+<balance>-85000.00000000</balance>
+<units>NC</units>
+<currencyConditional curCd="GBP" exchangeRt="0.74355000"/>
+<valUSD>-4741.85000000</valUSD>
+<pctVal>-0.00080151548</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>BARCLAYS BANK PLC</counterpartyName>
+<counterpartyLei>G5GSEF7VJP5I7OUK5573</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>SSE PLC</issuerName>
+<issueTitle>SSE PLC</issueTitle>
+<identifiers>
+<isin value="GB0007908733"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>18.01380000</exercisePrice>
+<exercisePriceCurCd>GBP</exercisePriceCurCd>
+<expDt>2025-10-08</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>43002.91000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Options Clearing Corp.</name>
+<lei>549300CII6SLYGKNHA04</lei>
+<title>NEXTERA ENERGY INC</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="Z977F96G5"/>
+</identifiers>
+<balance>-325.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-61100.00000000</valUSD>
+<pctVal>-0.01032774042</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>Options Clearing Corp.</counterpartyName>
+<counterpartyLei>549300CII6SLYGKNHA04</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>NextEra Energy, Inc.</issuerName>
+<issueTitle>NextEra Energy, Inc.</issueTitle>
+<identifiers>
+<cusip value="65339F101"/>
+<isin value="US65339F1012"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>100.00000000</shareNo>
+<exercisePrice>74.00000000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-10-03</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-5830.63000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>BANK OF AMERICA NA</name>
+<lei>B4TYDEB6GKMZO031MB27</lei>
+<title>NOV25 DG FP C @ 120.226</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDRUNMC8"/>
+</identifiers>
+<balance>-35500.00000000</balance>
+<units>NC</units>
+<currencyConditional curCd="EUR" exchangeRt="0.85175200"/>
+<valUSD>-72965.83000000</valUSD>
+<pctVal>-0.01233342311</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>BANK OF AMERICA NA</counterpartyName>
+<counterpartyLei>B4TYDEB6GKMZO031MB27</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Vinci SA</issuerName>
+<issueTitle>Vinci SA</issueTitle>
+<identifiers>
+<isin value="FR0000125486"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>120.22600000</exercisePrice>
+<exercisePriceCurCd>EUR</exercisePriceCurCd>
+<expDt>2025-11-04</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>8583.11000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Options Clearing Corp.</name>
+<lei>549300CII6SLYGKNHA04</lei>
+<title>CONSTELLATION ENERGY CORP</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="Z978CRP42"/>
+</identifiers>
+<balance>-92.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-88320.00000000</valUSD>
+<pctVal>-0.01492874033</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>Options Clearing Corp.</counterpartyName>
+<counterpartyLei>549300CII6SLYGKNHA04</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Constellation Energy Corp.</issuerName>
+<issueTitle>Constellation Energy Corp.</issueTitle>
+<identifiers>
+<cusip value="21037T109"/>
+<isin value="US21037T1097"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>100.00000000</shareNo>
+<exercisePrice>350.00000000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-10-31</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-6655.56000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Options Clearing Corp.</name>
+<lei>549300CII6SLYGKNHA04</lei>
+<title>NEXTERA ENERGY INC</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="Z97840W00"/>
+</identifiers>
+<balance>-631.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-197187.50000000</valUSD>
+<pctVal>-0.03333062709</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>Options Clearing Corp.</counterpartyName>
+<counterpartyLei>549300CII6SLYGKNHA04</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>NextEra Energy, Inc.</issuerName>
+<issueTitle>NextEra Energy, Inc.</issueTitle>
+<identifiers>
+<cusip value="65339F101"/>
+<isin value="US65339F1012"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>100.00000000</shareNo>
+<exercisePrice>74.00000000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-10-24</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-119343.50000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Cheniere Energy Inc</name>
+<lei>MIHC87W9WTYSYZWV1J40</lei>
+<title>Cheniere Energy Inc</title>
+<cusip>16411R208</cusip>
+<identifiers>
+<isin value="US16411R2085"/>
+</identifiers>
+<balance>65832.00000000</balance>
+<units>NS</units>
+<curCd>USD</curCd>
+<valUSD>15469203.36000000</valUSD>
+<pctVal>2.614761324337</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>The Montreal Exchange / Bourse De Montreal</name>
+<lei>N/A</lei>
+<title>PEMBINA PIPELINE CORP</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="Z9783H6S2"/>
+</identifiers>
+<balance>-319.00000000</balance>
+<units>NC</units>
+<currencyConditional curCd="CAD" exchangeRt="1.39170000"/>
+<valUSD>-41373.50000000</valUSD>
+<pctVal>-0.00699336773</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>CA</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>The Montreal Exchange / Bourse De Montreal</counterpartyName>
+<counterpartyLei>N/A</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Pembina Pipeline Corp.</issuerName>
+<issueTitle>Pembina Pipeline Corp.</issueTitle>
+<identifiers>
+<isin value="CA7063271034"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>100.00000000</shareNo>
+<exercisePrice>55.00000000</exercisePrice>
+<exercisePriceCurCd>CAD</exercisePriceCurCd>
+<expDt>2025-10-24</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-33753.63000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>The Montreal Exchange / Bourse De Montreal</name>
+<lei>N/A</lei>
+<title>BORALEX INC</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="Z97199K61"/>
+</identifiers>
+<balance>-765.00000000</balance>
+<units>NC</units>
+<currencyConditional curCd="CAD" exchangeRt="1.39170000"/>
+<valUSD>-13192.50000000</valUSD>
+<pctVal>-0.00222992987</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>CA</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>The Montreal Exchange / Bourse De Montreal</counterpartyName>
+<counterpartyLei>N/A</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Boralex, Inc.</issuerName>
+<issueTitle>Boralex, Inc.</issueTitle>
+<identifiers>
+<isin value="CA09950M3003"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>100.00000000</shareNo>
+<exercisePrice>28.00000000</exercisePrice>
+<exercisePriceCurCd>CAD</exercisePriceCurCd>
+<expDt>2025-10-17</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>7957.50000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Options Clearing Corp.</name>
+<lei>549300CII6SLYGKNHA04</lei>
+<title>SOUTHERN CO/THE</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="Z977357L4"/>
+</identifiers>
+<balance>-260.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-34450.00000000</valUSD>
+<pctVal>-0.00582308768</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>Options Clearing Corp.</counterpartyName>
+<counterpartyLei>549300CII6SLYGKNHA04</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Southern Co.</issuerName>
+<issueTitle>Southern Co.</issueTitle>
+<identifiers>
+<cusip value="842587107"/>
+<isin value="US8425871071"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>100.00000000</shareNo>
+<exercisePrice>95.00000000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-10-17</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>17420.69000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Southern Co/The</name>
+<lei>549300FC3G3YU2FBZD92</lei>
+<title>Southern Co/The</title>
+<cusip>842587107</cusip>
+<identifiers>
+<isin value="US8425871071"/>
+</identifiers>
+<balance>184704.00000000</balance>
+<units>NS</units>
+<curCd>USD</curCd>
+<valUSD>17504398.08000000</valUSD>
+<pctVal>2.958770535251</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>UBS AG</name>
+<lei>BFM8T61CT2L1QCEMIK50</lei>
+<title>OCT25 PCG US C @ 15.463</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDQDAQD1"/>
+</identifiers>
+<balance>-30800.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-4564.25000000</valUSD>
+<pctVal>-0.00077149573</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>IT</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>UBS AG</counterpartyName>
+<counterpartyLei>BFM8T61CT2L1QCEMIK50</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>PGE Corp.</issuerName>
+<issueTitle>PGE Corp.</issueTitle>
+<identifiers>
+<cusip value="69331C108"/>
+<isin value="US69331C1080"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>15.46300000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-10-07</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>24011.99000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Boralex Inc</name>
+<lei>5493004UT7HNQU2SVR90</lei>
+<title>Boralex Inc</title>
+<cusip>09950M300</cusip>
+<identifiers>
+<isin value="CA09950M3003"/>
+</identifiers>
+<balance>300656.00000000</balance>
+<units>NS</units>
+<currencyConditional curCd="CAD" exchangeRt="1.39170000"/>
+<valUSD>5869672.72000000</valUSD>
+<pctVal>0.992151493363</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>CA</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<loanByFundCondition isLoanByFund="Y" loanVal="294795.57860000"/>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>BlackRock Funds III</name>
+<lei>5493008LW2651I1QB503</lei>
+<title>BlackRock Cash Funds: Institutional, SL Agency Shares</title>
+<cusip>066922519</cusip>
+<identifiers>
+<isin value="US0669225197"/>
+</identifiers>
+<balance>310690.89000000</balance>
+<units>NS</units>
+<curCd>USD</curCd>
+<valUSD>310846.23000000</valUSD>
+<pctVal>0.052542376042</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>STIV</assetCat>
+<issuerCat>RF</issuerCat>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<securityLending>
+<cashCollateralCondition cashCollateralVal="310846.23000000" isCashCollateral="Y"/>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>MORGAN STANLEY  CO. INTERNATIONAL</name>
+<lei>4PQUHN3JPFGFNF3BB653</lei>
+<title>NOV25 NG. LN C @ 10.64923</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDS144M8"/>
+</identifiers>
+<balance>-106200.00000000</balance>
+<units>NC</units>
+<currencyConditional curCd="GBP" exchangeRt="0.74355000"/>
+<valUSD>-41711.59000000</valUSD>
+<pctVal>-0.00705051512</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>MORGAN STANLEY  CO. INTERNATIONAL</counterpartyName>
+<counterpartyLei>4PQUHN3JPFGFNF3BB653</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>National Grid PLC</issuerName>
+<issueTitle>National Grid PLC</issueTitle>
+<identifiers>
+<isin value="GB00BDR05C01"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>10.64923000</exercisePrice>
+<exercisePriceCurCd>GBP</exercisePriceCurCd>
+<expDt>2025-11-04</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-17723.57000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Options Clearing Corp.</name>
+<lei>549300CII6SLYGKNHA04</lei>
+<title>TARGA RESOURCES CORP</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="Z96Y8ACC4"/>
+</identifiers>
+<balance>-96.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-11280.00000000</valUSD>
+<pctVal>-0.00190665977</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>Options Clearing Corp.</counterpartyName>
+<counterpartyLei>549300CII6SLYGKNHA04</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Targa Resources Corp.</issuerName>
+<issueTitle>Targa Resources Corp.</issueTitle>
+<identifiers>
+<cusip value="87612G101"/>
+<isin value="US87612G1013"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>100.00000000</shareNo>
+<exercisePrice>180.00000000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-10-17</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>22646.51000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Enel SpA</name>
+<lei>WOCMU6HCI0OJWNPRZS33</lei>
+<title>Enel SpA</title>
+<cusip>000000000</cusip>
+<identifiers>
+<isin value="IT0003128367"/>
+</identifiers>
+<balance>1808777.00000000</balance>
+<units>NS</units>
+<currencyConditional curCd="EUR" exchangeRt="0.85175200"/>
+<valUSD>17140947.81000000</valUSD>
+<pctVal>2.897336491933</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>IT</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Targa Resources Corp</name>
+<lei>5493003QENHHS261UR94</lei>
+<title>Targa Resources Corp</title>
+<cusip>87612G101</cusip>
+<identifiers>
+<isin value="US87612G1013"/>
+</identifiers>
+<balance>69138.00000000</balance>
+<units>NS</units>
+<curCd>USD</curCd>
+<valUSD>11583380.52000000</valUSD>
+<pctVal>1.957940217341</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Vertiv Holdings Co</name>
+<lei>549300KTTIRAOGXCRV69</lei>
+<title>Vertiv Holdings Co</title>
+<cusip>92537N108</cusip>
+<identifiers>
+<isin value="US92537N1081"/>
+</identifiers>
+<balance>51686.00000000</balance>
+<units>NS</units>
+<curCd>USD</curCd>
+<valUSD>7797349.96000000</valUSD>
+<pctVal>1.317987011564</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>MORGAN STANLEY  CO LLC</name>
+<lei>9R7GPTSO7KV3UQJZQ078</lei>
+<title>PWR.FLEX</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDRX8KA4"/>
+</identifiers>
+<balance>-62.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-185973.15000000</valUSD>
+<pctVal>-0.03143506415</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>MORGAN STANLEY  CO LLC</counterpartyName>
+<counterpartyLei>9R7GPTSO7KV3UQJZQ078</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Quanta Services, Inc.</issuerName>
+<issueTitle>Quanta Services, Inc.</issueTitle>
+<identifiers>
+<cusip value="74762E102"/>
+<isin value="US74762E1029"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>100.00000000</shareNo>
+<exercisePrice>400.00000000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-11-07</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-81145.00000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Pembina Pipeline Corp</name>
+<lei>5493002W3L9YICM6FU21</lei>
+<title>Pembina Pipeline Corp</title>
+<cusip>706327103</cusip>
+<identifiers>
+<isin value="CA7063271034"/>
+</identifiers>
+<balance>182548.00000000</balance>
+<units>NS</units>
+<currencyConditional curCd="CAD" exchangeRt="1.39170000"/>
+<valUSD>7380883.78000000</valUSD>
+<pctVal>1.247591682534</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>CA</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Northland Power Inc</name>
+<lei>8945002IJ77NEBK48M81</lei>
+<title>Northland Power Inc</title>
+<cusip>666511100</cusip>
+<identifiers>
+<isin value="CA6665111002"/>
+</identifiers>
+<balance>23586.00000000</balance>
+<units>NS</units>
+<currencyConditional curCd="CAD" exchangeRt="1.39170000"/>
+<valUSD>394879.50000000</valUSD>
+<pctVal>0.066746529885</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>CA</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Constellation Energy Corp</name>
+<lei>549300F8Y20RYGNGV346</lei>
+<title>Constellation Energy Corp</title>
+<cusip>21037T109</cusip>
+<identifiers>
+<isin value="US21037T1097"/>
+</identifiers>
+<balance>52718.00000000</balance>
+<units>NS</units>
+<curCd>USD</curCd>
+<valUSD>17347912.26000000</valUSD>
+<pctVal>2.932319718075</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Trane Technologies PLC</name>
+<lei>549300BURLR9SLYY2705</lei>
+<title>Trane Technologies PLC</title>
+<cusip>000000000</cusip>
+<identifiers>
+<isin value="IE00BK9ZQ967"/>
+</identifiers>
+<balance>38715.00000000</balance>
+<units>NS</units>
+<curCd>USD</curCd>
+<valUSD>16336181.40000000</valUSD>
+<pctVal>2.761306727825</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>IE</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Options Clearing Corp.</name>
+<lei>549300CII6SLYGKNHA04</lei>
+<title>NEXTERA ENERGY INC</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="Z96U1WQ10"/>
+</identifiers>
+<balance>-432.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-36288.00000000</valUSD>
+<pctVal>-0.00613376505</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>Options Clearing Corp.</counterpartyName>
+<counterpartyLei>549300CII6SLYGKNHA04</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>NextEra Energy, Inc.</issuerName>
+<issueTitle>NextEra Energy, Inc.</issueTitle>
+<identifiers>
+<cusip value="65339F101"/>
+<isin value="US65339F1012"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>100.00000000</shareNo>
+<exercisePrice>77.50000000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-10-17</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>45263.12000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Entergy Corp</name>
+<lei>4XM3TW50JULSLG8BNC79</lei>
+<title>Entergy Corp</title>
+<cusip>29364G103</cusip>
+<identifiers>
+<isin value="US29364G1031"/>
+</identifiers>
+<balance>120124.00000000</balance>
+<units>NS</units>
+<curCd>USD</curCd>
+<valUSD>11194355.56000000</valUSD>
+<pctVal>1.892183281063</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>BANK OF AMERICA NA</name>
+<lei>B4TYDEB6GKMZO031MB27</lei>
+<title>OCT25 PCG US C @ 15.55</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDRUCGR6"/>
+</identifiers>
+<balance>-116600.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-54249.32000000</valUSD>
+<pctVal>-0.00916976915</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>BANK OF AMERICA NA</counterpartyName>
+<counterpartyLei>B4TYDEB6GKMZO031MB27</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>PGE Corp.</issuerName>
+<issueTitle>PGE Corp.</issueTitle>
+<identifiers>
+<cusip value="69331C108"/>
+<isin value="US69331C1080"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>15.55000000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-10-31</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>9076.14000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>CITIBANK NA</name>
+<lei>E57ODZWZ7FF32TWEFA76</lei>
+<title>NOV25 SO US C @ 96.053</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDS3LGH6"/>
+</identifiers>
+<balance>-37700.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-63991.60000000</valUSD>
+<pctVal>-0.01081650792</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>CITIBANK NA</counterpartyName>
+<counterpartyLei>E57ODZWZ7FF32TWEFA76</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Southern Co.</issuerName>
+<issueTitle>Southern Co.</issueTitle>
+<identifiers>
+<cusip value="842587107"/>
+<isin value="US8425871071"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>96.05300000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-11-07</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-4727.20000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Options Clearing Corp.</name>
+<lei>549300CII6SLYGKNHA04</lei>
+<title>DUKE ENERGY CORP</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="Z96Y6C6M7"/>
+</identifiers>
+<balance>-290.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-34800.00000000</valUSD>
+<pctVal>-0.00588224823</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>Options Clearing Corp.</counterpartyName>
+<counterpartyLei>549300CII6SLYGKNHA04</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Duke Energy Corp.</issuerName>
+<issueTitle>Duke Energy Corp.</issueTitle>
+<identifiers>
+<cusip value="26441C204"/>
+<isin value="US26441C2044"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>100.00000000</shareNo>
+<exercisePrice>125.00000000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-10-17</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>22645.07000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Hubbell Inc</name>
+<lei>54930088VDQ6840Y6597</lei>
+<title>Hubbell Inc</title>
+<cusip>443510607</cusip>
+<identifiers>
+<isin value="US4435106079"/>
+</identifiers>
+<balance>10452.00000000</balance>
+<units>NS</units>
+<curCd>USD</curCd>
+<valUSD>4497600.12000000</valUSD>
+<pctVal>0.760229895000</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>BlackRock Liquidity Funds</name>
+<lei>5493007YVNX55LTRQ706</lei>
+<title>BlackRock Liquidity Funds: T-Fund, Institutional Shares</title>
+<cusip>09248U718</cusip>
+<identifiers>
+<isin value="US09248U7182"/>
+</identifiers>
+<balance>14005906.65000000</balance>
+<units>NS</units>
+<curCd>USD</curCd>
+<valUSD>14005906.65000000</valUSD>
+<pctVal>2.367420103571</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>STIV</assetCat>
+<issuerCat>RF</issuerCat>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Sempra</name>
+<lei>PBBKGKLRK5S5C0Y4T545</lei>
+<title>Sempra</title>
+<cusip>816851109</cusip>
+<identifiers>
+<isin value="US8168511090"/>
+</identifiers>
+<balance>133446.00000000</balance>
+<units>NS</units>
+<curCd>USD</curCd>
+<valUSD>12007471.08000000</valUSD>
+<pctVal>2.029624296249</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Options Clearing Corp.</name>
+<lei>549300CII6SLYGKNHA04</lei>
+<title>CMS ENERGY CORP</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="Z9771VJ51"/>
+</identifiers>
+<balance>-279.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-99045.00000000</valUSD>
+<pctVal>-0.01674158838</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>Options Clearing Corp.</counterpartyName>
+<counterpartyLei>549300CII6SLYGKNHA04</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>CMS Energy Corp.</issuerName>
+<issueTitle>CMS Energy Corp.</issueTitle>
+<identifiers>
+<cusip value="125896100"/>
+<isin value="US1258961002"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>100.00000000</shareNo>
+<exercisePrice>70.00000000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-10-17</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-60605.34000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>MORGAN STANLEY  CO LLC</name>
+<lei>9R7GPTSO7KV3UQJZQ078</lei>
+<title>TRGP.FLEX</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDRXCVF2"/>
+</identifiers>
+<balance>-145.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-50244.10000000</valUSD>
+<pctVal>-0.00849276633</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>MORGAN STANLEY  CO LLC</counterpartyName>
+<counterpartyLei>9R7GPTSO7KV3UQJZQ078</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Targa Resources Corp.</issuerName>
+<issueTitle>Targa Resources Corp.</issueTitle>
+<identifiers>
+<cusip value="87612G101"/>
+<isin value="US87612G1013"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>100.00000000</shareNo>
+<exercisePrice>175.00000000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-11-04</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-9096.50000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>BNP PARIBAS SA</name>
+<lei>QHSFEYI7HUOXXZ413E03</lei>
+<title>OCT25 VWS DC C @ 127.0046</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDPUHBN3"/>
+</identifiers>
+<balance>-26100.00000000</balance>
+<units>NC</units>
+<currencyConditional curCd="DKK" exchangeRt="6.35805000"/>
+<valUSD>-516.99000000</valUSD>
+<pctVal>-0.00008738688</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>BNP PARIBAS SA</counterpartyName>
+<counterpartyLei>QHSFEYI7HUOXXZ413E03</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Vestas Wind Systems AS</issuerName>
+<issueTitle>Vestas Wind Systems AS</issueTitle>
+<identifiers>
+<isin value="DK0061539921"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>127.00460000</exercisePrice>
+<exercisePriceCurCd>DKK</exercisePriceCurCd>
+<expDt>2025-10-03</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>19175.15000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Linde PLC</name>
+<lei>5299003QR1WT0EF88V51</lei>
+<title>Linde PLC</title>
+<cusip>000000000</cusip>
+<identifiers>
+<isin value="IE000S9YS762"/>
+</identifiers>
+<balance>21674.00000000</balance>
+<units>NS</units>
+<curCd>USD</curCd>
+<valUSD>10295150.00000000</valUSD>
+<pctVal>1.740190455951</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>IE</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Options Clearing Corp.</name>
+<lei>549300CII6SLYGKNHA04</lei>
+<title>VISTRA CORP</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="Z96Y8H1E7"/>
+</identifiers>
+<balance>-140.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-54600.00000000</valUSD>
+<pctVal>-0.00922904463</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>Options Clearing Corp.</counterpartyName>
+<counterpartyLei>549300CII6SLYGKNHA04</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Vistra Corp.</issuerName>
+<issueTitle>Vistra Corp.</issueTitle>
+<identifiers>
+<cusip value="92840M102"/>
+<isin value="US92840M1027"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>100.00000000</shareNo>
+<exercisePrice>210.00000000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-10-17</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>79921.60000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Quanta Services Inc</name>
+<lei>SHVRXXEACT60MMH07S24</lei>
+<title>Quanta Services Inc</title>
+<cusip>74762E102</cusip>
+<identifiers>
+<isin value="US74762E1029"/>
+</identifiers>
+<balance>26538.00000000</balance>
+<units>NS</units>
+<curCd>USD</curCd>
+<valUSD>10997877.96000000</valUSD>
+<pctVal>1.858972648452</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>BNP PARIBAS SA</name>
+<lei>QHSFEYI7HUOXXZ413E03</lei>
+<title>OCT25 ENEL IM C @ 7.9596</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDRLNGN1"/>
+</identifiers>
+<balance>-604900.00000000</balance>
+<units>NC</units>
+<currencyConditional curCd="EUR" exchangeRt="0.85175200"/>
+<valUSD>-135055.54000000</valUSD>
+<pctVal>-0.02282845434</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>BNP PARIBAS SA</counterpartyName>
+<counterpartyLei>QHSFEYI7HUOXXZ413E03</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Enel SpA</issuerName>
+<issueTitle>Enel SpA</issueTitle>
+<identifiers>
+<isin value="IT0003128367"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>7.95960000</exercisePrice>
+<exercisePriceCurCd>EUR</exercisePriceCurCd>
+<expDt>2025-10-28</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-35280.16000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>UBS AG</name>
+<lei>BFM8T61CT2L1QCEMIK50</lei>
+<title>OCT25 SGO FP C @ 101.3352</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDPWC4S9"/>
+</identifiers>
+<balance>-25500.00000000</balance>
+<units>NC</units>
+<currencyConditional curCd="EUR" exchangeRt="0.85175200"/>
+<valUSD>-1000.54000000</valUSD>
+<pctVal>-0.00016912139</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>UBS AG</counterpartyName>
+<counterpartyLei>BFM8T61CT2L1QCEMIK50</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Cie de Saint-Gobain SA</issuerName>
+<issueTitle>Cie de Saint-Gobain SA</issueTitle>
+<identifiers>
+<isin value="FR0000125007"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>101.33520000</exercisePrice>
+<exercisePriceCurCd>EUR</exercisePriceCurCd>
+<expDt>2025-10-09</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>86293.67000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Kingspan Group PLC</name>
+<lei>635400HM7V74SUB9OG75</lei>
+<title>Kingspan Group PLC</title>
+<cusip>000000000</cusip>
+<identifiers>
+<isin value="IE0004927939"/>
+</identifiers>
+<balance>124980.00000000</balance>
+<units>NS</units>
+<currencyConditional curCd="EUR" exchangeRt="0.85175200"/>
+<valUSD>10449698.60000000</valUSD>
+<pctVal>1.766313824596</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>IE</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Air Liquide SA</name>
+<lei>969500MMPQVHK671GT54</lei>
+<title>Air Liquide SA</title>
+<cusip>000000000</cusip>
+<identifiers>
+<isin value="FR0000120073"/>
+</identifiers>
+<balance>42889.00000000</balance>
+<units>NS</units>
+<currencyConditional curCd="EUR" exchangeRt="0.85175200"/>
+<valUSD>8936209.75000000</valUSD>
+<pctVal>1.510488620305</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>FR</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>CMS Energy Corp</name>
+<lei>549300IA9XFBAGNIBW29</lei>
+<title>CMS Energy Corp</title>
+<cusip>125896100</cusip>
+<identifiers>
+<isin value="US1258961002"/>
+</identifiers>
+<balance>159466.00000000</balance>
+<units>NS</units>
+<curCd>USD</curCd>
+<valUSD>11682479.16000000</valUSD>
+<pctVal>1.974690872506</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Elia Group SA/NV</name>
+<lei>549300S1MP1NFDIKT460</lei>
+<title>Elia Group SA/NV</title>
+<cusip>000000000</cusip>
+<identifiers>
+<isin value="BE0003822393"/>
+</identifiers>
+<balance>82881.00000000</balance>
+<units>NS</units>
+<currencyConditional curCd="EUR" exchangeRt="0.85175200"/>
+<valUSD>9575330.13000000</valUSD>
+<pctVal>1.618519215826</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>BE</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Orron Energy ab</name>
+<lei>549300IULC8F8IGXKI15</lei>
+<title>Orron Energy ab</title>
+<cusip>000000000</cusip>
+<identifiers>
+<isin value="SE0000825820"/>
+</identifiers>
+<balance>3401100.00000000</balance>
+<units>NS</units>
+<currencyConditional curCd="SEK" exchangeRt="9.41440000"/>
+<valUSD>1743853.48000000</valUSD>
+<pctVal>0.294763765702</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>SE</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Options Clearing Corp.</name>
+<lei>549300CII6SLYGKNHA04</lei>
+<title>OWENS CORNING</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="Z9770X5W4"/>
+</identifiers>
+<balance>-125.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-7812.50000000</valUSD>
+<pctVal>-0.00132054782</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>Options Clearing Corp.</counterpartyName>
+<counterpartyLei>549300CII6SLYGKNHA04</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Owens Corning</issuerName>
+<issueTitle>Owens Corning</issueTitle>
+<identifiers>
+<cusip value="690742101"/>
+<isin value="US6907421019"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>100.00000000</shareNo>
+<exercisePrice>160.00000000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-10-17</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>7265.82000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Options Clearing Corp.</name>
+<lei>549300CII6SLYGKNHA04</lei>
+<title>WILLIAMS COS INC/THE</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="Z975WRTA8"/>
+</identifiers>
+<balance>-228.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-86640.00000000</valUSD>
+<pctVal>-0.01464476973</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>Options Clearing Corp.</counterpartyName>
+<counterpartyLei>549300CII6SLYGKNHA04</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Williams Cos., Inc.</issuerName>
+<issueTitle>Williams Cos., Inc.</issueTitle>
+<identifiers>
+<cusip value="969457100"/>
+<isin value="US9694571004"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>100.00000000</shareNo>
+<exercisePrice>60.00000000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-10-17</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-69455.55000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>GOLDMAN SACHS INTERNATIONAL</name>
+<lei>W22LROWP2IHZNBB6K528</lei>
+<title>OCT25 ELI BB C @ 96.6819</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDRLNG50"/>
+</identifiers>
+<balance>-12500.00000000</balance>
+<units>NC</units>
+<currencyConditional curCd="EUR" exchangeRt="0.85175200"/>
+<valUSD>-54413.73000000</valUSD>
+<pctVal>-0.00919755939</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>GOLDMAN SACHS INTERNATIONAL</counterpartyName>
+<counterpartyLei>W22LROWP2IHZNBB6K528</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Elia Group SA</issuerName>
+<issueTitle>Elia Group SA</issueTitle>
+<identifiers>
+<isin value="BE0003822393"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>96.68190000</exercisePrice>
+<exercisePriceCurCd>EUR</exercisePriceCurCd>
+<expDt>2025-10-28</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-10830.30000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>GOLDMAN SACHS INTERNATIONAL</name>
+<lei>W22LROWP2IHZNBB6K528</lei>
+<title>OCT25 CMS US C @ 76.347</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDP7WM79"/>
+</identifiers>
+<balance>-27900.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-1564.35000000</valUSD>
+<pctVal>-0.00026442227</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>GOLDMAN SACHS INTERNATIONAL</counterpartyName>
+<counterpartyLei>W22LROWP2IHZNBB6K528</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>CMS Energy Corp.</issuerName>
+<issueTitle>CMS Energy Corp.</issueTitle>
+<identifiers>
+<cusip value="125896100"/>
+<isin value="US1258961002"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>76.34700000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-10-01</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>28963.83000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>BARCLAYS BANK PLC</name>
+<lei>G5GSEF7VJP5I7OUK5573</lei>
+<title>NOV25 DUK US C @ 123.216</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDRSL559"/>
+</identifiers>
+<balance>-17000.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-104418.76000000</valUSD>
+<pctVal>-0.01764991569</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>BARCLAYS BANK PLC</counterpartyName>
+<counterpartyLei>G5GSEF7VJP5I7OUK5573</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Duke Energy Corp.</issuerName>
+<issueTitle>Duke Energy Corp.</issueTitle>
+<identifiers>
+<cusip value="26441C204"/>
+<isin value="US26441C2044"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>123.21600000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-11-05</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-66838.56000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Vestas Wind Systems A/S</name>
+<lei>549300DYMC8BGZZC8844</lei>
+<title>Vestas Wind Systems A/S</title>
+<cusip>000000000</cusip>
+<identifiers>
+<isin value="DK0061539921"/>
+</identifiers>
+<balance>523263.00000000</balance>
+<units>NS</units>
+<currencyConditional curCd="DKK" exchangeRt="6.35805000"/>
+<valUSD>9954145.12000000</valUSD>
+<pctVal>1.682550359633</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>DK</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>DSV A/S</name>
+<lei>529900X41C0BSLK67H70</lei>
+<title>DSV A/S</title>
+<cusip>000000000</cusip>
+<identifiers>
+<isin value="DK0060079531"/>
+</identifiers>
+<balance>18548.00000000</balance>
+<units>NS</units>
+<currencyConditional curCd="DKK" exchangeRt="6.35805000"/>
+<valUSD>3705343.88000000</valUSD>
+<pctVal>0.626314726448</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>DK</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>BARCLAYS BANK PLC</name>
+<lei>G5GSEF7VJP5I7OUK5573</lei>
+<title>OCT25 SRE US C @ 82.436</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDQ0BWQ7"/>
+</identifiers>
+<balance>-33400.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-271133.52000000</valUSD>
+<pctVal>-0.04582973184</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>BARCLAYS BANK PLC</counterpartyName>
+<counterpartyLei>G5GSEF7VJP5I7OUK5573</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Sempra</issuerName>
+<issueTitle>Sempra</issueTitle>
+<identifiers>
+<cusip value="816851109"/>
+<isin value="US8168511090"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>82.43600000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-10-22</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-184988.24000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Options Clearing Corp.</name>
+<lei>549300CII6SLYGKNHA04</lei>
+<title>CHENIERE ENERGY INC</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="Z9783WPU3"/>
+</identifiers>
+<balance>-82.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-36490.00000000</valUSD>
+<pctVal>-0.00616790913</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>Options Clearing Corp.</counterpartyName>
+<counterpartyLei>549300CII6SLYGKNHA04</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Cheniere Energy, Inc.</issuerName>
+<issueTitle>Cheniere Energy, Inc.</issueTitle>
+<identifiers>
+<cusip value="16411R208"/>
+<isin value="US16411R2085"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>100.00000000</shareNo>
+<exercisePrice>240.00000000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-10-24</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-6270.82000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Republic Services Inc</name>
+<lei>NKNQHM6BLECKVOQP7O46</lei>
+<title>Republic Services Inc</title>
+<cusip>760759100</cusip>
+<identifiers>
+<isin value="US7607591002"/>
+</identifiers>
+<balance>53161.00000000</balance>
+<units>NS</units>
+<curCd>USD</curCd>
+<valUSD>12199386.28000000</valUSD>
+<pctVal>2.062063745834</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>SSE PLC</name>
+<lei>549300KI75VYLLMSK856</lei>
+<title>SSE PLC</title>
+<cusip>000000000</cusip>
+<identifiers>
+<isin value="GB0007908733"/>
+</identifiers>
+<balance>522371.00000000</balance>
+<units>NS</units>
+<currencyConditional curCd="GBP" exchangeRt="0.74355000"/>
+<valUSD>12252572.03000000</valUSD>
+<pctVal>2.071053739621</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>GB</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>GOLDMAN SACHS INTERNATIONAL</name>
+<lei>W22LROWP2IHZNBB6K528</lei>
+<title>NOV25 SGO FP C @ 97.5903</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDRUNME4"/>
+</identifiers>
+<balance>-25700.00000000</balance>
+<units>NC</units>
+<currencyConditional curCd="EUR" exchangeRt="0.85175200"/>
+<valUSD>-38290.88000000</valUSD>
+<pctVal>-0.00647231210</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>GOLDMAN SACHS INTERNATIONAL</counterpartyName>
+<counterpartyLei>W22LROWP2IHZNBB6K528</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Cie de Saint-Gobain SA</issuerName>
+<issueTitle>Cie de Saint-Gobain SA</issueTitle>
+<identifiers>
+<isin value="FR0000125007"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>97.59030000</exercisePrice>
+<exercisePriceCurCd>EUR</exercisePriceCurCd>
+<expDt>2025-11-04</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>39565.79000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>BARCLAYS BANK PLC</name>
+<lei>G5GSEF7VJP5I7OUK5573</lei>
+<title>NOV25 ENEL IM C @ 8.035</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDS144S5"/>
+</identifiers>
+<balance>-71700.00000000</balance>
+<units>NC</units>
+<currencyConditional curCd="EUR" exchangeRt="0.85175200"/>
+<valUSD>-12821.37000000</valUSD>
+<pctVal>-0.00216719772</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>BARCLAYS BANK PLC</counterpartyName>
+<counterpartyLei>G5GSEF7VJP5I7OUK5573</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Enel SpA</issuerName>
+<issueTitle>Enel SpA</issueTitle>
+<identifiers>
+<isin value="IT0003128367"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>8.03500000</exercisePrice>
+<exercisePriceCurCd>EUR</exercisePriceCurCd>
+<expDt>2025-11-04</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-5110.81000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>GOLDMAN SACHS INTERNATIONAL</name>
+<lei>W22LROWP2IHZNBB6K528</lei>
+<title>NOV25 AEP US C @ 109.694</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDRSYBQ8"/>
+</identifiers>
+<balance>-19500.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-143720.07000000</valUSD>
+<pctVal>-0.02429302090</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>GOLDMAN SACHS INTERNATIONAL</counterpartyName>
+<counterpartyLei>W22LROWP2IHZNBB6K528</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>American Electric Power Co., Inc.</issuerName>
+<issueTitle>American Electric Power Co., Inc.</issueTitle>
+<identifiers>
+<cusip value="025537101"/>
+<isin value="US0255371017"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>109.69400000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-11-04</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-104842.92000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>GOLDMAN SACHS INTERNATIONAL</name>
+<lei>W22LROWP2IHZNBB6K528</lei>
+<title>OCT25 EDPR PL C @ 10.6284</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDQ62EU2"/>
+</identifiers>
+<balance>-125000.00000000</balance>
+<units>NC</units>
+<currencyConditional curCd="EUR" exchangeRt="0.85175200"/>
+<valUSD>-88652.57000000</valUSD>
+<pctVal>-0.01498495468</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>GOLDMAN SACHS INTERNATIONAL</counterpartyName>
+<counterpartyLei>W22LROWP2IHZNBB6K528</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>EDP Renovaveis SA</issuerName>
+<issueTitle>EDP Renovaveis SA</issueTitle>
+<identifiers>
+<isin value="ES0127797019"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>10.62840000</exercisePrice>
+<exercisePriceCurCd>EUR</exercisePriceCurCd>
+<expDt>2025-10-08</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-42312.06000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>PGE Corp</name>
+<lei>8YQ2GSDWYZXO2EDN3511</lei>
+<title>PGE Corp</title>
+<cusip>69331C108</cusip>
+<identifiers>
+<isin value="US69331C1080"/>
+</identifiers>
+<balance>681368.00000000</balance>
+<units>NS</units>
+<curCd>USD</curCd>
+<valUSD>10275029.44000000</valUSD>
+<pctVal>1.736789475249</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Options Clearing Corp.</name>
+<lei>549300CII6SLYGKNHA04</lei>
+<title>CONSTELLATION ENERGY CORP</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="Z9771W2T5"/>
+</identifiers>
+<balance>-92.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-80040.00000000</valUSD>
+<pctVal>-0.01352917092</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>Options Clearing Corp.</counterpartyName>
+<counterpartyLei>549300CII6SLYGKNHA04</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Constellation Energy Corp.</issuerName>
+<issueTitle>Constellation Energy Corp.</issueTitle>
+<identifiers>
+<cusip value="21037T109"/>
+<isin value="US21037T1097"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>100.00000000</shareNo>
+<exercisePrice>340.00000000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-10-17</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-12164.63000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Nexans SA</name>
+<lei>96950015FU78G84UIV14</lei>
+<title>Nexans SA</title>
+<cusip>000000000</cusip>
+<identifiers>
+<isin value="FR0000044448"/>
+</identifiers>
+<balance>69056.00000000</balance>
+<units>NS</units>
+<currencyConditional curCd="EUR" exchangeRt="0.85175200"/>
+<valUSD>10283382.86000000</valUSD>
+<pctVal>1.738201454847</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>FR</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>MORGAN STANLEY  CO LLC</name>
+<lei>9R7GPTSO7KV3UQJZQ078</lei>
+<title>RSG.FLEX</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDRX4YJ9"/>
+</identifiers>
+<balance>-85.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-46692.46000000</valUSD>
+<pctVal>-0.00789243218</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>MORGAN STANLEY  CO LLC</counterpartyName>
+<counterpartyLei>9R7GPTSO7KV3UQJZQ078</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Republic Services, Inc.</issuerName>
+<issueTitle>Republic Services, Inc.</issueTitle>
+<identifiers>
+<cusip value="760759100"/>
+<isin value="US7607591002"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>100.00000000</shareNo>
+<exercisePrice>229.97000000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-10-31</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-5656.45000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>GOLDMAN SACHS INTERNATIONAL</name>
+<lei>W22LROWP2IHZNBB6K528</lei>
+<title>OCT25 ENR GY C @ 99.2925</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDR33UA7"/>
+</identifiers>
+<balance>-26100.00000000</balance>
+<units>NC</units>
+<currencyConditional curCd="EUR" exchangeRt="0.85175200"/>
+<valUSD>-93056.73000000</valUSD>
+<pctVal>-0.01572939038</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>GOLDMAN SACHS INTERNATIONAL</counterpartyName>
+<counterpartyLei>W22LROWP2IHZNBB6K528</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Siemens Energy AG</issuerName>
+<issueTitle>Siemens Energy AG</issueTitle>
+<identifiers>
+<isin value="DE000ENER6Y0"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>99.29250000</exercisePrice>
+<exercisePriceCurCd>EUR</exercisePriceCurCd>
+<expDt>2025-10-14</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-35197.29000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>CenterPoint Energy Inc</name>
+<lei>21TPXMRRHFKOBHDC8J74</lei>
+<title>CenterPoint Energy Inc</title>
+<cusip>15189T107</cusip>
+<identifiers>
+<isin value="US15189T1079"/>
+</identifiers>
+<balance>307818.00000000</balance>
+<units>NS</units>
+<curCd>USD</curCd>
+<valUSD>11943338.40000000</valUSD>
+<pctVal>2.018783941553</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>NiSource Inc</name>
+<lei>549300D8GOWWH0SJB189</lei>
+<title>NiSource Inc</title>
+<cusip>65473P105</cusip>
+<identifiers>
+<isin value="US65473P1057"/>
+</identifiers>
+<balance>202860.00000000</balance>
+<units>NS</units>
+<curCd>USD</curCd>
+<valUSD>8783838.00000000</valUSD>
+<pctVal>1.484733204880</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>FirstEnergy Corp</name>
+<lei>549300SVYJS666PQJH88</lei>
+<title>FirstEnergy Corp</title>
+<cusip>337932107</cusip>
+<identifiers>
+<isin value="US3379321074"/>
+</identifiers>
+<balance>165824.00000000</balance>
+<units>NS</units>
+<curCd>USD</curCd>
+<valUSD>7598055.68000000</valUSD>
+<pctVal>1.284300275190</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Options Clearing Corp.</name>
+<lei>549300CII6SLYGKNHA04</lei>
+<title>ENTERGY CORP</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="Z9771S827"/>
+</identifiers>
+<balance>-216.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-19980.00000000</valUSD>
+<pctVal>-0.00337722182</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>Options Clearing Corp.</counterpartyName>
+<counterpartyLei>549300CII6SLYGKNHA04</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Entergy Corp.</issuerName>
+<issueTitle>Entergy Corp.</issueTitle>
+<identifiers>
+<cusip value="29364G103"/>
+<isin value="US29364G1031"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>100.00000000</shareNo>
+<exercisePrice>95.00000000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-10-17</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-7502.68000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>EDP Renovaveis SA</name>
+<lei>529900MUFAH07Q1TAX06</lei>
+<title>EDP Renovaveis SA</title>
+<cusip>000000000</cusip>
+<identifiers>
+<isin value="ES0127797019"/>
+</identifiers>
+<balance>1091742.00000000</balance>
+<units>NS</units>
+<currencyConditional curCd="EUR" exchangeRt="0.85175200"/>
+<valUSD>14429074.40000000</valUSD>
+<pctVal>2.438948199792</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>ES</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Duke Energy Corp</name>
+<lei>I1BZKREC126H0VB1BL91</lei>
+<title>Duke Energy Corp</title>
+<cusip>26441C204</cusip>
+<identifiers>
+<isin value="US26441C2044"/>
+</identifiers>
+<balance>133830.00000000</balance>
+<units>NS</units>
+<curCd>USD</curCd>
+<valUSD>16561462.50000000</valUSD>
+<pctVal>2.799386019543</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>MORGAN STANLEY  CO LLC</name>
+<lei>9R7GPTSO7KV3UQJZQ078</lei>
+<title>NI US FLEX</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDQ02DS4"/>
+</identifiers>
+<balance>-454.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-70520.27000000</valUSD>
+<pctVal>-0.01192004981</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>MORGAN STANLEY  CO LLC</counterpartyName>
+<counterpartyLei>9R7GPTSO7KV3UQJZQ078</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>NiSource, Inc.</issuerName>
+<issueTitle>NiSource, Inc.</issueTitle>
+<identifiers>
+<cusip value="65473P105"/>
+<isin value="US65473P1057"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>100.00000000</shareNo>
+<exercisePrice>42.55000000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-10-17</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-18412.08000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>First Solar Inc</name>
+<lei>549300NPYMLM4NHTOF27</lei>
+<title>First Solar Inc</title>
+<cusip>336433107</cusip>
+<identifiers>
+<isin value="US3364331070"/>
+</identifiers>
+<balance>46248.00000000</balance>
+<units>NS</units>
+<curCd>USD</curCd>
+<valUSD>10199071.44000000</valUSD>
+<pctVal>1.723950285275</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Waste Connections Inc</name>
+<lei>549300HDLRTPBQU69P29</lei>
+<title>Waste Connections Inc</title>
+<cusip>94106B101</cusip>
+<identifiers>
+<isin value="CA94106B1013"/>
+</identifiers>
+<balance>57886.00000000</balance>
+<units>NS</units>
+<curCd>USD</curCd>
+<valUSD>10176358.80000000</valUSD>
+<pctVal>1.720111164975</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>CA</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Prysmian SpA</name>
+<lei>529900X0H1IO3RS1A464</lei>
+<title>Prysmian SpA</title>
+<cusip>000000000</cusip>
+<identifiers>
+<isin value="IT0004176001"/>
+</identifiers>
+<balance>89285.00000000</balance>
+<units>NS</units>
+<currencyConditional curCd="EUR" exchangeRt="0.85175200"/>
+<valUSD>8885779.57000000</valUSD>
+<pctVal>1.501964400849</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>IT</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Options Clearing Corp.</name>
+<lei>549300CII6SLYGKNHA04</lei>
+<title>HUBBELL INC</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="Z978QG022"/>
+</identifiers>
+<balance>-15.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-20250.00000000</valUSD>
+<pctVal>-0.00342285996</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>Options Clearing Corp.</counterpartyName>
+<counterpartyLei>549300CII6SLYGKNHA04</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Hubbell, Inc.</issuerName>
+<issueTitle>Hubbell, Inc.</issueTitle>
+<identifiers>
+<cusip value="443510607"/>
+<isin value="US4435106079"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>100.00000000</shareNo>
+<exercisePrice>450.00000000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-11-21</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>9148.11000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>GE Vernova Inc</name>
+<lei>254900DP080RU6OK2553</lei>
+<title>GE Vernova Inc</title>
+<cusip>36828A101</cusip>
+<identifiers>
+<isin value="US36828A1016"/>
+</identifiers>
+<balance>29496.00000000</balance>
+<units>NS</units>
+<curCd>USD</curCd>
+<valUSD>18137090.40000000</valUSD>
+<pctVal>3.065714595009</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>BANK OF AMERICA NA</name>
+<lei>B4TYDEB6GKMZO031MB27</lei>
+<title>OCT25 ENR GY C @ 101.4344</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDPWC4B6"/>
+</identifiers>
+<balance>-28300.00000000</balance>
+<units>NC</units>
+<currencyConditional curCd="EUR" exchangeRt="0.85175200"/>
+<valUSD>-50565.76000000</valUSD>
+<pctVal>-0.00854713655</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>BANK OF AMERICA NA</counterpartyName>
+<counterpartyLei>B4TYDEB6GKMZO031MB27</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Siemens Energy AG</issuerName>
+<issueTitle>Siemens Energy AG</issueTitle>
+<identifiers>
+<isin value="DE000ENER6Y0"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>101.43440000</exercisePrice>
+<exercisePriceCurCd>EUR</exercisePriceCurCd>
+<expDt>2025-10-09</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>119647.93000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>The Montreal Exchange / Bourse De Montreal</name>
+<lei>N/A</lei>
+<title>CANADIAN PACIFIC KANSAS CITY L</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="Z9719AY06"/>
+</identifiers>
+<balance>-250.00000000</balance>
+<units>NC</units>
+<currencyConditional curCd="CAD" exchangeRt="1.39170000"/>
+<valUSD>-19221.10000000</valUSD>
+<pctVal>-0.00324894486</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>CA</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>The Montreal Exchange / Bourse De Montreal</counterpartyName>
+<counterpartyLei>N/A</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Canadian Pacific Kansas City Ltd.</issuerName>
+<issueTitle>Canadian Pacific Kansas City Ltd.</issueTitle>
+<identifiers>
+<isin value="CA13646K1084"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>100.00000000</shareNo>
+<exercisePrice>105.00000000</exercisePrice>
+<exercisePriceCurCd>CAD</exercisePriceCurCd>
+<expDt>2025-10-17</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>30186.71000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Heidelberg Materials AG</name>
+<lei>LZ2C6E0W5W7LQMX5ZI37</lei>
+<title>Heidelberg Materials AG</title>
+<cusip>000000000</cusip>
+<identifiers>
+<isin value="DE0006047004"/>
+</identifiers>
+<balance>19266.00000000</balance>
+<units>NS</units>
+<currencyConditional curCd="EUR" exchangeRt="0.85175200"/>
+<valUSD>4354998.11000000</valUSD>
+<pctVal>0.736125859915</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>DE</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>MORGAN STANLEY  CO. INTERNATIONAL</name>
+<lei>4PQUHN3JPFGFNF3BB653</lei>
+<title>NOV25 KRX ID C @ 72.7884</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDS3AEP4"/>
+</identifiers>
+<balance>-14600.00000000</balance>
+<units>NC</units>
+<currencyConditional curCd="EUR" exchangeRt="0.85175200"/>
+<valUSD>-28947.62000000</valUSD>
+<pctVal>-0.00489301972</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>MORGAN STANLEY  CO. INTERNATIONAL</counterpartyName>
+<counterpartyLei>4PQUHN3JPFGFNF3BB653</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Kingspan Group PLC</issuerName>
+<issueTitle>Kingspan Group PLC</issueTitle>
+<identifiers>
+<isin value="IE0004927939"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>72.78840000</exercisePrice>
+<exercisePriceCurCd>EUR</exercisePriceCurCd>
+<expDt>2025-11-07</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>8494.12000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Options Clearing Corp.</name>
+<lei>549300CII6SLYGKNHA04</lei>
+<title>CENTERPOINT ENERGY INC</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="Z96ZCUS84"/>
+</identifiers>
+<balance>-579.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-46320.00000000</valUSD>
+<pctVal>-0.00782947523</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>Options Clearing Corp.</counterpartyName>
+<counterpartyLei>549300CII6SLYGKNHA04</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>CenterPoint Energy, Inc.</issuerName>
+<issueTitle>CenterPoint Energy, Inc.</issueTitle>
+<identifiers>
+<cusip value="15189T107"/>
+<isin value="US15189T1079"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>100.00000000</shareNo>
+<exercisePrice>40.00000000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-11-21</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-3024.38000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>GOLDMAN SACHS INTERNATIONAL</name>
+<lei>W22LROWP2IHZNBB6K528</lei>
+<title>OCT25 DSV DC C @ 1549.7631</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDPWC4D2"/>
+</identifiers>
+<balance>-3400.00000000</balance>
+<units>NC</units>
+<currencyConditional curCd="DKK" exchangeRt="6.35805000"/>
+<valUSD>-0.06000000</valUSD>
+<pctVal>-0.00000001014</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>GOLDMAN SACHS INTERNATIONAL</counterpartyName>
+<counterpartyLei>W22LROWP2IHZNBB6K528</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>DSV AS</issuerName>
+<issueTitle>DSV AS</issueTitle>
+<identifiers>
+<isin value="DK0060079531"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>1549.76310000</exercisePrice>
+<exercisePriceCurCd>DKK</exercisePriceCurCd>
+<expDt>2025-10-09</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>19724.70000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>GOLDMAN SACHS INTERNATIONAL</name>
+<lei>W22LROWP2IHZNBB6K528</lei>
+<title>NOV25 PRY IM C @ 86.1568</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDRUNMF1"/>
+</identifiers>
+<balance>-33300.00000000</balance>
+<units>NC</units>
+<currencyConditional curCd="EUR" exchangeRt="0.85175200"/>
+<valUSD>-90962.45000000</valUSD>
+<pctVal>-0.01537539398</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>GOLDMAN SACHS INTERNATIONAL</counterpartyName>
+<counterpartyLei>W22LROWP2IHZNBB6K528</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Prysmian SpA</issuerName>
+<issueTitle>Prysmian SpA</issueTitle>
+<identifiers>
+<isin value="IT0004176001"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>86.15680000</exercisePrice>
+<exercisePriceCurCd>EUR</exercisePriceCurCd>
+<expDt>2025-11-04</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-18674.03000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Vinci SA</name>
+<lei>213800WFQ334R8UXUG83</lei>
+<title>Vinci SA</title>
+<cusip>000000000</cusip>
+<identifiers>
+<isin value="FR0000125486"/>
+</identifiers>
+<balance>105246.00000000</balance>
+<units>NS</units>
+<currencyConditional curCd="EUR" exchangeRt="0.85175200"/>
+<valUSD>14626245.52000000</valUSD>
+<pctVal>2.472276058174</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>FR</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Options Clearing Corp.</name>
+<lei>549300CII6SLYGKNHA04</lei>
+<title>QUANTA SERVICES INC</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="Z975L0Z04"/>
+</identifiers>
+<balance>-30.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-88200.00000000</valUSD>
+<pctVal>-0.01490845672</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>Options Clearing Corp.</counterpartyName>
+<counterpartyLei>549300CII6SLYGKNHA04</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Quanta Services, Inc.</issuerName>
+<issueTitle>Quanta Services, Inc.</issueTitle>
+<identifiers>
+<cusip value="74762E102"/>
+<isin value="US74762E1029"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>100.00000000</shareNo>
+<exercisePrice>390.00000000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-10-17</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-36229.73000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Options Clearing Corp.</name>
+<lei>549300CII6SLYGKNHA04</lei>
+<title>CHENIERE ENERGY INC</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="Z977F0YJ7"/>
+</identifiers>
+<balance>-78.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-5070.00000000</valUSD>
+<pctVal>-0.00085698271</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>Options Clearing Corp.</counterpartyName>
+<counterpartyLei>549300CII6SLYGKNHA04</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Cheniere Energy, Inc.</issuerName>
+<issueTitle>Cheniere Energy, Inc.</issueTitle>
+<identifiers>
+<cusip value="16411R208"/>
+<isin value="US16411R2085"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>100.00000000</shareNo>
+<exercisePrice>245.00000000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-10-03</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>50549.46000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>MORGAN STANLEY  CO. INTERNATIONAL</name>
+<lei>4PQUHN3JPFGFNF3BB653</lei>
+<title>NOV25 HEXA B SS C @ 120.054</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDS140V2"/>
+</identifiers>
+<balance>-67000.00000000</balance>
+<units>NC</units>
+<currencyConditional curCd="SEK" exchangeRt="9.41440000"/>
+<valUSD>-6960.54000000</valUSD>
+<pctVal>-0.00117654092</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>MORGAN STANLEY  CO. INTERNATIONAL</counterpartyName>
+<counterpartyLei>4PQUHN3JPFGFNF3BB653</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Hexagon AB</issuerName>
+<issueTitle>Hexagon AB</issueTitle>
+<identifiers>
+<isin value="SE0015961909"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>120.05400000</exercisePrice>
+<exercisePriceCurCd>SEK</exercisePriceCurCd>
+<expDt>2025-11-04</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>15581.01000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>BANK OF AMERICA NA</name>
+<lei>B4TYDEB6GKMZO031MB27</lei>
+<title>NOV25 AI FP C @ 178.4514</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDRUNMB0"/>
+</identifiers>
+<balance>-1000.00000000</balance>
+<units>NC</units>
+<currencyConditional curCd="EUR" exchangeRt="0.85175200"/>
+<valUSD>-3221.68000000</valUSD>
+<pctVal>-0.00054456096</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>BANK OF AMERICA NA</counterpartyName>
+<counterpartyLei>B4TYDEB6GKMZO031MB27</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Air Liquide SA</issuerName>
+<issueTitle>Air Liquide SA</issueTitle>
+<identifiers>
+<isin value="FR0000120073"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>178.45140000</exercisePrice>
+<exercisePriceCurCd>EUR</exercisePriceCurCd>
+<expDt>2025-11-04</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-108.45000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Hexagon AB</name>
+<lei>549300WJFW6ILNI4TA80</lei>
+<title>Hexagon AB</title>
+<cusip>000000000</cusip>
+<identifiers>
+<isin value="SE0015961909"/>
+</identifiers>
+<balance>497418.00000000</balance>
+<units>NS</units>
+<currencyConditional curCd="SEK" exchangeRt="9.41440000"/>
+<valUSD>5935764.22000000</valUSD>
+<pctVal>1.003322947642</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>SE</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>UBS AG</name>
+<lei>BFM8T61CT2L1QCEMIK50</lei>
+<title>OCT25 SSE LN C @ 17.8186</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDPUHBS2"/>
+</identifiers>
+<balance>-69700.00000000</balance>
+<units>NC</units>
+<currencyConditional curCd="GBP" exchangeRt="0.74355000"/>
+<valUSD>-1905.72000000</valUSD>
+<pctVal>-0.00032212408</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>UBS AG</counterpartyName>
+<counterpartyLei>BFM8T61CT2L1QCEMIK50</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>SSE PLC</issuerName>
+<issueTitle>SSE PLC</issueTitle>
+<identifiers>
+<isin value="GB0007908733"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>17.81860000</exercisePrice>
+<exercisePriceCurCd>GBP</exercisePriceCurCd>
+<expDt>2025-10-03</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>45568.18000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>NEXTracker Inc</name>
+<lei>N/A</lei>
+<title>NEXTracker Inc</title>
+<cusip>65290E101</cusip>
+<identifiers>
+<isin value="US65290E1010"/>
+</identifiers>
+<balance>135654.00000000</balance>
+<units>NS</units>
+<curCd>USD</curCd>
+<valUSD>10037039.46000000</valUSD>
+<pctVal>1.696562000000</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Options Clearing Corp.</name>
+<lei>549300CII6SLYGKNHA04</lei>
+<title>FIRSTENERGY CORP</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="Z96Y6QLR8"/>
+</identifiers>
+<balance>-580.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-126150.00000000</valUSD>
+<pctVal>-0.02132314983</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>Options Clearing Corp.</counterpartyName>
+<counterpartyLei>549300CII6SLYGKNHA04</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>FirstEnergy Corp.</issuerName>
+<issueTitle>FirstEnergy Corp.</issueTitle>
+<identifiers>
+<cusip value="337932107"/>
+<isin value="US3379321074"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>100.00000000</shareNo>
+<exercisePrice>44.00000000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-10-17</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-94959.60000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>BANK OF AMERICA NA</name>
+<lei>B4TYDEB6GKMZO031MB27</lei>
+<title>OCT25 NG. LN C @ 10.5691</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDRLNGD3"/>
+</identifiers>
+<balance>-198400.00000000</balance>
+<units>NC</units>
+<currencyConditional curCd="GBP" exchangeRt="0.74355000"/>
+<valUSD>-81166.43000000</valUSD>
+<pctVal>-0.01371957152</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>BANK OF AMERICA NA</counterpartyName>
+<counterpartyLei>B4TYDEB6GKMZO031MB27</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>National Grid PLC</issuerName>
+<issueTitle>National Grid PLC</issueTitle>
+<identifiers>
+<isin value="GB00BDR05C01"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>10.56910000</exercisePrice>
+<exercisePriceCurCd>GBP</exercisePriceCurCd>
+<expDt>2025-10-28</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-22681.74000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Hess Midstream LP</name>
+<lei>N/A</lei>
+<title>Hess Midstream LP</title>
+<cusip>428103105</cusip>
+<identifiers>
+<isin value="US4281031058"/>
+</identifiers>
+<balance>103250.00000000</balance>
+<units>NS</units>
+<curCd>USD</curCd>
+<valUSD>3567287.50000000</valUSD>
+<pctVal>0.602979039755</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>MORGAN STANLEY  CO LLC</name>
+<lei>9R7GPTSO7KV3UQJZQ078</lei>
+<title>CNP.FLEX</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDPSS0V6"/>
+</identifiers>
+<balance>-498.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-34291.28000000</valUSD>
+<pctVal>-0.00579625922</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>MORGAN STANLEY  CO LLC</counterpartyName>
+<counterpartyLei>9R7GPTSO7KV3UQJZQ078</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>CenterPoint Energy, Inc.</issuerName>
+<issueTitle>CenterPoint Energy, Inc.</issueTitle>
+<identifiers>
+<cusip value="15189T107"/>
+<isin value="US15189T1079"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>100.00000000</shareNo>
+<exercisePrice>39.00000000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-10-17</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>18385.04000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Cie de Saint-Gobain SA</name>
+<lei>NFONVGN05Z0FMN5PEC35</lei>
+<title>Cie de Saint-Gobain SA</title>
+<cusip>000000000</cusip>
+<identifiers>
+<isin value="FR0000125007"/>
+</identifiers>
+<balance>146496.00000000</balance>
+<units>NS</units>
+<currencyConditional curCd="EUR" exchangeRt="0.85175200"/>
+<valUSD>15873076.51000000</valUSD>
+<pctVal>2.683028051975</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>FR</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Options Clearing Corp.</name>
+<lei>549300CII6SLYGKNHA04</lei>
+<title>CHENIERE ENERGY INC</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="Z977PHJ80"/>
+</identifiers>
+<balance>-70.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-9450.00000000</valUSD>
+<pctVal>-0.00159733464</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>Options Clearing Corp.</counterpartyName>
+<counterpartyLei>549300CII6SLYGKNHA04</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Cheniere Energy, Inc.</issuerName>
+<issueTitle>Cheniere Energy, Inc.</issueTitle>
+<identifiers>
+<cusip value="16411R208"/>
+<isin value="US16411R2085"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>100.00000000</shareNo>
+<exercisePrice>245.00000000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-10-10</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>16680.22000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>BANK OF AMERICA NA</name>
+<lei>B4TYDEB6GKMZO031MB27</lei>
+<title>NOV25 NEX FP C @ 133.62</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDS5BD55"/>
+</identifiers>
+<balance>-10700.00000000</balance>
+<units>NC</units>
+<currencyConditional curCd="EUR" exchangeRt="0.85175200"/>
+<valUSD>-30346.85000000</valUSD>
+<pctVal>-0.00512953174</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>BANK OF AMERICA NA</counterpartyName>
+<counterpartyLei>B4TYDEB6GKMZO031MB27</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Nexans SA</issuerName>
+<issueTitle>Nexans SA</issueTitle>
+<identifiers>
+<isin value="FR0000044448"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>133.62000000</exercisePrice>
+<exercisePriceCurCd>EUR</exercisePriceCurCd>
+<expDt>2025-11-05</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>30043.16000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Options Clearing Corp.</name>
+<lei>549300CII6SLYGKNHA04</lei>
+<title>VERTIV HOLDINGS CO</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="Z975L8FK5"/>
+</identifiers>
+<balance>-69.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-97807.50000000</valUSD>
+<pctVal>-0.01653241361</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>Options Clearing Corp.</counterpartyName>
+<counterpartyLei>549300CII6SLYGKNHA04</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Vertiv Holdings Co.</issuerName>
+<issueTitle>Vertiv Holdings Co.</issueTitle>
+<identifiers>
+<cusip value="92537N108"/>
+<isin value="US92537N1081"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>100.00000000</shareNo>
+<exercisePrice>140.00000000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-10-17</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-49612.72000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>BNP PARIBAS SA</name>
+<lei>QHSFEYI7HUOXXZ413E03</lei>
+<title>OCT25 HEXA B SS C @ 110.4828</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDRLNGB7"/>
+</identifiers>
+<balance>-53400.00000000</balance>
+<units>NC</units>
+<currencyConditional curCd="SEK" exchangeRt="9.41440000"/>
+<valUSD>-24348.83000000</valUSD>
+<pctVal>-0.00411568569</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>BNP PARIBAS SA</counterpartyName>
+<counterpartyLei>QHSFEYI7HUOXXZ413E03</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Hexagon AB</issuerName>
+<issueTitle>Hexagon AB</issueTitle>
+<identifiers>
+<isin value="SE0015961909"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>110.48280000</exercisePrice>
+<exercisePriceCurCd>SEK</exercisePriceCurCd>
+<expDt>2025-10-28</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-7133.33000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>The Montreal Exchange / Bourse De Montreal</name>
+<lei>N/A</lei>
+<title>BORALEX INC</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="Z97198255"/>
+</identifiers>
+<balance>-458.00000000</balance>
+<units>NC</units>
+<currencyConditional curCd="CAD" exchangeRt="1.39170000"/>
+<valUSD>-2632.75000000</valUSD>
+<pctVal>-0.00044501405</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>CA</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>The Montreal Exchange / Bourse De Montreal</counterpartyName>
+<counterpartyLei>N/A</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Boralex, Inc.</issuerName>
+<issueTitle>Boralex, Inc.</issueTitle>
+<identifiers>
+<isin value="CA09950M3003"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>100.00000000</shareNo>
+<exercisePrice>31.00000000</exercisePrice>
+<exercisePriceCurCd>CAD</exercisePriceCurCd>
+<expDt>2025-10-17</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>16692.27000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>National Grid PLC</name>
+<lei>8R95QZMKZLJX5Q2XR704</lei>
+<title>National Grid PLC</title>
+<cusip>000000000</cusip>
+<identifiers>
+<isin value="GB00BDR05C01"/>
+</identifiers>
+<balance>1344358.00000000</balance>
+<units>NS</units>
+<currencyConditional curCd="GBP" exchangeRt="0.74355000"/>
+<valUSD>19316622.76000000</valUSD>
+<pctVal>3.265091093201</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>GB</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>MORGAN STANLEY  CO. INTERNATIONAL</name>
+<lei>4PQUHN3JPFGFNF3BB653</lei>
+<title>NOV25 PCG US C @ 15.495</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDS1B426"/>
+</identifiers>
+<balance>-77500.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-44672.55000000</valUSD>
+<pctVal>-0.00755100655</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>IT</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>MORGAN STANLEY  CO. INTERNATIONAL</counterpartyName>
+<counterpartyLei>4PQUHN3JPFGFNF3BB653</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>PGE Corp.</issuerName>
+<issueTitle>PGE Corp.</issueTitle>
+<identifiers>
+<cusip value="69331C108"/>
+<isin value="US69331C1080"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>15.49500000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-11-07</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-9386.80000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Options Clearing Corp.</name>
+<lei>549300CII6SLYGKNHA04</lei>
+<title>WILLIAMS COS INC/THE</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="Z9796PJE6"/>
+</identifiers>
+<balance>-677.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-165865.00000000</valUSD>
+<pctVal>-0.02803618111</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>Options Clearing Corp.</counterpartyName>
+<counterpartyLei>549300CII6SLYGKNHA04</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Williams Cos., Inc.</issuerName>
+<issueTitle>Williams Cos., Inc.</issueTitle>
+<identifiers>
+<cusip value="969457100"/>
+<isin value="US9694571004"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>100.00000000</shareNo>
+<exercisePrice>63.00000000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-11-07</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>1879.72000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>MORGAN STANLEY  CO. INTERNATIONAL</name>
+<lei>4PQUHN3JPFGFNF3BB653</lei>
+<title>NOV25 DSV DC C @ 1335.67</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDS5BDF3"/>
+</identifiers>
+<balance>-3100.00000000</balance>
+<units>NC</units>
+<currencyConditional curCd="DKK" exchangeRt="6.35805000"/>
+<valUSD>-10240.22000000</valUSD>
+<pctVal>-0.00173090563</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>MORGAN STANLEY  CO. INTERNATIONAL</counterpartyName>
+<counterpartyLei>4PQUHN3JPFGFNF3BB653</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>DSV AS</issuerName>
+<issueTitle>DSV AS</issueTitle>
+<identifiers>
+<isin value="DK0060079531"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>1335.67000000</exercisePrice>
+<exercisePriceCurCd>DKK</exercisePriceCurCd>
+<expDt>2025-11-05</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>3982.69000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>GOLDMAN SACHS INTERNATIONAL</name>
+<lei>W22LROWP2IHZNBB6K528</lei>
+<title>OCT25 NEX FP C @ 133.4143</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDR6TZW4"/>
+</identifiers>
+<balance>-6200.00000000</balance>
+<units>NC</units>
+<currencyConditional curCd="EUR" exchangeRt="0.85175200"/>
+<valUSD>-4770.95000000</valUSD>
+<pctVal>-0.00080643425</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>GOLDMAN SACHS INTERNATIONAL</counterpartyName>
+<counterpartyLei>W22LROWP2IHZNBB6K528</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Nexans SA</issuerName>
+<issueTitle>Nexans SA</issueTitle>
+<identifiers>
+<isin value="FR0000044448"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>133.41430000</exercisePrice>
+<exercisePriceCurCd>EUR</exercisePriceCurCd>
+<expDt>2025-10-14</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>17321.49000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>BANK OF AMERICA NA</name>
+<lei>B4TYDEB6GKMZO031MB27</lei>
+<title>NOV25 NG. LN C @ 10.8325</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDS3AEV1"/>
+</identifiers>
+<balance>-52100.00000000</balance>
+<units>NC</units>
+<currencyConditional curCd="GBP" exchangeRt="0.74355000"/>
+<valUSD>-15317.14000000</valUSD>
+<pctVal>-0.00258905803</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>BANK OF AMERICA NA</counterpartyName>
+<counterpartyLei>B4TYDEB6GKMZO031MB27</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>National Grid PLC</issuerName>
+<issueTitle>National Grid PLC</issueTitle>
+<identifiers>
+<isin value="GB00BDR05C01"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>10.83250000</exercisePrice>
+<exercisePriceCurCd>GBP</exercisePriceCurCd>
+<expDt>2025-11-07</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-5151.98000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>GOLDMAN SACHS INTERNATIONAL</name>
+<lei>W22LROWP2IHZNBB6K528</lei>
+<title>OCT25 NEX FP C @ 136.68</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDPWC434"/>
+</identifiers>
+<balance>-6200.00000000</balance>
+<units>NC</units>
+<currencyConditional curCd="EUR" exchangeRt="0.85175200"/>
+<valUSD>-709.28000000</valUSD>
+<pctVal>-0.00011988968</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>GOLDMAN SACHS INTERNATIONAL</counterpartyName>
+<counterpartyLei>W22LROWP2IHZNBB6K528</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Nexans SA</issuerName>
+<issueTitle>Nexans SA</issueTitle>
+<identifiers>
+<isin value="FR0000044448"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>136.68000000</exercisePrice>
+<exercisePriceCurCd>EUR</exercisePriceCurCd>
+<expDt>2025-10-09</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>33737.78000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Siemens Energy AG</name>
+<lei>5299005CHJZ14D4FDJ62</lei>
+<title>Siemens Energy AG</title>
+<cusip>000000000</cusip>
+<identifiers>
+<isin value="DE000ENER6Y0"/>
+</identifiers>
+<balance>160982.00000000</balance>
+<units>NS</units>
+<currencyConditional curCd="EUR" exchangeRt="0.85175200"/>
+<valUSD>18928121.97000000</valUSD>
+<pctVal>3.199422757442</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>DE</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Schneider Electric SE</name>
+<lei>969500A1YF1XUYYXS284</lei>
+<title>Schneider Electric SE</title>
+<cusip>000000000</cusip>
+<identifiers>
+<isin value="FR0000121972"/>
+</identifiers>
+<balance>26941.00000000</balance>
+<units>NS</units>
+<currencyConditional curCd="EUR" exchangeRt="0.85175200"/>
+<valUSD>7583144.68000000</valUSD>
+<pctVal>1.281779867047</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>FR</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Options Clearing Corp.</name>
+<lei>549300CII6SLYGKNHA04</lei>
+<title>LINDE PLC</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="Z96Y76RY0"/>
+</identifiers>
+<balance>-28.00000000</balance>
+<units>NC</units>
+<curCd>USD</curCd>
+<valUSD>-16660.00000000</valUSD>
+<pctVal>-0.00281604182</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>IE</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>Options Clearing Corp.</counterpartyName>
+<counterpartyLei>549300CII6SLYGKNHA04</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Linde PLC</issuerName>
+<issueTitle>Linde PLC</issueTitle>
+<identifiers>
+<isin value="IE000S9YS762"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>100.00000000</shareNo>
+<exercisePrice>480.00000000</exercisePrice>
+<exercisePriceCurCd>USD</exercisePriceCurCd>
+<expDt>2025-10-17</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>16424.72000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>BANK OF AMERICA NA</name>
+<lei>B4TYDEB6GKMZO031MB27</lei>
+<title>OCT25 AI FP C @ 178.0458</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDRLNG76"/>
+</identifiers>
+<balance>-13300.00000000</balance>
+<units>NC</units>
+<currencyConditional curCd="EUR" exchangeRt="0.85175200"/>
+<valUSD>-38272.68000000</valUSD>
+<pctVal>-0.00646923575</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>BANK OF AMERICA NA</counterpartyName>
+<counterpartyLei>B4TYDEB6GKMZO031MB27</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Air Liquide SA</issuerName>
+<issueTitle>Air Liquide SA</issueTitle>
+<identifiers>
+<isin value="FR0000120073"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>178.04580000</exercisePrice>
+<exercisePriceCurCd>EUR</exercisePriceCurCd>
+<expDt>2025-10-28</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>18278.75000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>BANK OF AMERICA NA</name>
+<lei>B4TYDEB6GKMZO031MB27</lei>
+<title>NOV25 SU FP C @ 237.9815</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDS5BDD8"/>
+</identifiers>
+<balance>-3500.00000000</balance>
+<units>NC</units>
+<currencyConditional curCd="EUR" exchangeRt="0.85175200"/>
+<valUSD>-34913.67000000</valUSD>
+<pctVal>-0.00590146188</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>BANK OF AMERICA NA</counterpartyName>
+<counterpartyLei>B4TYDEB6GKMZO031MB27</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Schneider Electric SE</issuerName>
+<issueTitle>Schneider Electric SE</issueTitle>
+<identifiers>
+<isin value="FR0000121972"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>237.98150000</exercisePrice>
+<exercisePriceCurCd>EUR</exercisePriceCurCd>
+<expDt>2025-11-05</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>-7568.61000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>Canadian Pacific Kansas City Ltd</name>
+<lei>N/A</lei>
+<title>Canadian Pacific Kansas City Ltd</title>
+<cusip>13646K108</cusip>
+<identifiers>
+<isin value="CA13646K1084"/>
+</identifiers>
+<balance>126296.00000000</balance>
+<units>NS</units>
+<currencyConditional curCd="CAD" exchangeRt="1.39170000"/>
+<valUSD>9406179.78000000</valUSD>
+<pctVal>1.589927711604</pctVal>
+<payoffProfile>Long</payoffProfile>
+<assetCat>EC</assetCat>
+<issuerCat>CORP</issuerCat>
+<invCountry>CA</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>1</fairValLevel>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+<invstOrSec>
+<name>UBS AG</name>
+<lei>BFM8T61CT2L1QCEMIK50</lei>
+<title>OCT25 VWS DC C @ 131.5565</title>
+<cusip>000000000</cusip>
+<identifiers>
+<other otherDesc="BlackRock Identifier" value="BYDR33U90"/>
+</identifiers>
+<balance>-74900.00000000</balance>
+<units>NC</units>
+<currencyConditional curCd="DKK" exchangeRt="6.35805000"/>
+<valUSD>-7563.22000000</valUSD>
+<pctVal>-0.00127841199</pctVal>
+<payoffProfile>N/A</payoffProfile>
+<assetCat>DE</assetCat>
+<issuerConditional desc="derivative" issuerCat="OTHER"/>
+<invCountry>US</invCountry>
+<isRestrictedSec>N</isRestrictedSec>
+<fairValLevel>2</fairValLevel>
+<derivativeInfo>
+<optionSwaptionWarrantDeriv derivCat="OPT">
+<counterparties>
+<counterpartyName>UBS AG</counterpartyName>
+<counterpartyLei>BFM8T61CT2L1QCEMIK50</counterpartyLei>
+</counterparties>
+<putOrCall>Call</putOrCall>
+<writtenOrPur>Written</writtenOrPur>
+<descRefInstrmnt>
+<otherRefInst>
+<issuerName>Vestas Wind Systems AS</issuerName>
+<issueTitle>Vestas Wind Systems AS</issueTitle>
+<identifiers>
+<isin value="DK0061539921"/>
+</identifiers>
+</otherRefInst>
+</descRefInstrmnt>
+<shareNo>1.00000000</shareNo>
+<exercisePrice>131.55650000</exercisePrice>
+<exercisePriceCurCd>DKK</exercisePriceCurCd>
+<expDt>2025-10-14</expDt>
+<delta>XXXX</delta>
+<unrealizedAppr>33984.57000000</unrealizedAppr>
+</optionSwaptionWarrantDeriv>
+</derivativeInfo>
+<securityLending>
+<isCashCollateral>N</isCashCollateral>
+<isNonCashCollateral>N</isNonCashCollateral>
+<isLoanByFund>N</isLoanByFund>
+</securityLending>
+</invstOrSec>
+</invstOrSecs>
+<explntrNotes>
+<explntrNote note="Monthly returns presented in Item B.5(a) have been calculated without deducting any applicable sales loads or redemption fees." noteItem="B.5.a"/>
+</explntrNotes>
+<signature>
+<ncom:dateSigned>2025-10-29</ncom:dateSigned>
+<ncom:nameOfApplicant>BlackRock Utilities, Infrastructure  Power Opportunities Trust</ncom:nameOfApplicant>
+<ncom:signature>Chuck Pulsfort</ncom:signature>
+<ncom:signerName>Chuck Pulsfort</ncom:signerName>
+<ncom:title>Assistant Treasurer</ncom:title>
+</signature>
+</formData>
+<documents>XXXX</documents>
+</edgarSubmission>

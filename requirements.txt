@@ -1,0 +1,9 @@
+pandas
+lxml
+requests
+db-sqlite3
+streamlit
+langchain
+langchain-community
+langchain-openai
+yfinance
